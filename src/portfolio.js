@@ -30,15 +30,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/RakshitaJ-Neu",
-  // linkedin: "https://www.linkedin.com/in/rakshita-jaiswal/",
-  // gmail: "rakshita.jaiswal25@gmail.com",
-  // gitlab: "https://gitlab.com/RakshitaJ-Neu",
-  // facebook: "https://www.facebook.com/rakshita.jaiswal1998/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/rakshita_jaiswal_/"
-
   {
     name: "Github",
     link: "https://github.com/RakshitaJ-Neu",
