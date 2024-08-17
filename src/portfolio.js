@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Rakshita Jaiswal Portfolio",
     type: "website",
-    url: ""
+    url: "",
   },
 };
 
@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A versatile professional with three years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
   resumeLink:
-    "https://drive.google.com/file/d/1nh_6lzD3g60MId49pEtnP7RXPKOFlmYx/view?usp=sharing",
+    "https://drive.google.com/file/d/1VF_tFp5cxFIfbjWJVL-KiNzWQqztDQZT/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/RakshitaJ-Neu",
 };
@@ -211,7 +211,7 @@ const skills = {
         "⚡ Implement strategic Project Management practices and process workflows using Agile frameworks and JIRA",
         "⚡ Manage resources effectively with efficient tools like Microsoft Project",
         "⚡ Identify and Mitigate risks using SWOT Analysis and risk management techniques",
-        "⚡ Monitor and control project risk, timeline, and budget, ultimately driving success and creating value for clients"
+        "⚡ Monitor and control project risk, timeline, and budget, ultimately driving success and creating value for clients",
       ],
       softwareSkills: [
         {
@@ -326,8 +326,7 @@ const skills = {
           },
         },
       ],
-    }
-    
+    },
   ],
 };
 
@@ -610,7 +609,8 @@ const experience = {
         {
           title: "Graduate Ambassador",
           company: "Husky Sisters Code-Northeastern",
-          company_url: "https://coe.northeastern.edu/orgs/husky-systers-code/#:~:text=As%20women%20in%20the%20graduate,be%20better%20versions%20of%20ourselves.",
+          company_url:
+            "https://coe.northeastern.edu/orgs/husky-systers-code/#:~:text=As%20women%20in%20the%20graduate,be%20better%20versions%20of%20ourselves.",
           logo_path: "huskySis_logo.png",
           duration: "Sept 2023 - Jan 2024",
           location: "Boston, MA",
@@ -650,41 +650,41 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects focus on Data Science, Project Management, and Frontend Development. I specialize in creating impactful Data Science solutions, developing responsive web interfaces, and designing comprehensive project plans to ensure successful outcomes.",
+    "My projects focus on Business Analysis, Data Science, and Process Optimization. I specialize in streamlining business processes through requirement analysis and Agile methodologies, analyzing complex datasets to develop predictive models, and creating actionable insights that drive efficiency and decision-making.",
   avatar_image_path: "projects_image.svg",
 };
 
-const publicationsHeader = {
-  title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "projects_image.svg",
-};
+// const publicationsHeader = {
+//   title: "Publications",
+//   description: "Some of my published Articles, Blogs and Research.",
+//   avatar_image_path: "projects_image.svg",
+// };
 
-const publications = {
-  data: [
-    {
-      id: "neuro-symbolic-sudoku-solver",
-      name: "Neuro-Symbolic Sudoku Solver",
-      createdAt: "2023-07-02T00:00:00Z",
-      description: "Paper published in KDD KiML 2023",
-      url: "https://arxiv.org/abs/2307.00653",
-    },
-    {
-      id: "mdp-diffusion",
-      name: "MDP-Diffusion",
-      createdAt: "2023-09-19T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/mdp-diffusion/",
-    },
-    {
-      id: "consistency-models",
-      name: "Consistency Models",
-      createdAt: "2023-10-12T00:00:00Z",
-      description: "Blog published in Paperspace",
-      url: "https://blog.paperspace.com/consistency-models/",
-    },
-  ],
-};
+// const publications = {
+//   data: [
+//     {
+//       id: "neuro-symbolic-sudoku-solver",
+//       name: "Neuro-Symbolic Sudoku Solver",
+//       createdAt: "2023-07-02T00:00:00Z",
+//       description: "Paper published in KDD KiML 2023",
+//       url: "https://arxiv.org/abs/2307.00653",
+//     },
+//     {
+//       id: "mdp-diffusion",
+//       name: "MDP-Diffusion",
+//       createdAt: "2023-09-19T00:00:00Z",
+//       description: "Blog published in Paperspace",
+//       url: "https://blog.paperspace.com/mdp-diffusion/",
+//     },
+//     {
+//       id: "consistency-models",
+//       name: "Consistency Models",
+//       createdAt: "2023-10-12T00:00:00Z",
+//       description: "Blog published in Paperspace",
+//       url: "https://blog.paperspace.com/consistency-models/",
+//     },
+//   ],
+// };
 
 // Contact Page
 const contactPageData = {
@@ -692,25 +692,25 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_rakshita_circular.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Strategic Planning, Business Process Improvement, Data Analysis and Visualization.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    title: "Testimonials",
+    subtitle: "WHAT PEOPLE SAY...",
+    link:
+      "https://www.linkedin.com/in/rakshita-jaiswal/details/recommendations/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
+    subtitle: "Burnett St, Jamaica Plain, MA, USA 02130",
+    locality: "Jamaica Plain",
     country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    region: "Massachusetts",
+    postalCode: "02120",
+    streetAddress: "Burnett St",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/WjDEo1NwwoFg53gT9",
   },
   phoneSection: {
     title: "",
@@ -729,7 +729,7 @@ export {
   certifications,
   experience,
   projectsHeader,
-  publicationsHeader,
-  publications,
+  // publicationsHeader,
+  // publications,
   contactPageData,
 };
