@@ -7,7 +7,7 @@
 
 <p align="center"> 
     <a href="https://RakshitaJ-Neu.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
+    <img src="images/masterPortfolioTheme.png"></img>
   </a>
 </p>
 
@@ -165,7 +165,6 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 
 Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
-
 
 # Technologies used 🛠️
 
