@@ -473,15 +473,6 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#00000099",
-    },
-    {
       title: "Scrum Professional",
       subtitle: "- CertiProf",
       logo_path: "scrum_logo.png",
@@ -517,6 +508,15 @@ const certifications = {
       alt_name: "Google Cloud",
       color_code: "#4285F499",
     },
+    // {
+    //   title: "Cloud Architecture",
+    //   subtitle: "- Qwiklabs",
+    //   logo_path: "gcp_logo.png",
+    //   certificate_link:
+    //     "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+    //   alt_name: "GCP",
+    //   color_code: "#00000099",
+    // },
   ],
 };
 
