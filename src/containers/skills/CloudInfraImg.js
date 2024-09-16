@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import BusinessAnalysisImage from "./business_analysis.jpg";
+import BusinessAnalysisImage from "./business_analysis.png";
 
 export default class CloudInfraImg extends Component {
   render() {
