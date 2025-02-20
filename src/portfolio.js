@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A versatile professional with three years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
   resumeLink:
-    "https://drive.google.com/file/d/1VF_tFp5cxFIfbjWJVL-KiNzWQqztDQZT/view?usp=sharing",
+    "https://drive.google.com/file/d/1ToBAQPtEZYGKuVva818awFvI22qjokKB/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/RakshitaJ-Neu",
 };
@@ -89,13 +89,13 @@ const skills = {
         "⚡ Leverage data analysis with Excel and Google Analytics to inform strategic decisions and improve go-to-market strategies",
       ],
       softwareSkills: [
-        {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
-          style: {
-            color: "#4285F4",
-          },
-        },
+        // {
+        //   skillName: "GCP",
+        //   fontAwesomeClassname: "simple-icons:googlecloud",
+        //   style: {
+        //     color: "#4285F4",
+        //   },
+        // },
         {
           skillName: "AWS",
           fontAwesomeClassname: "simple-icons:amazonaws",
@@ -206,6 +206,53 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "JIRA",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            color: "#FF2BC2",
+          },
+        },
+        {
+          skillName: "Azure DevOps",
+          fontAwesomeClassname: "simple-icons:azuredevops",
+          style: {
+            color: "#0078D7",
+          },
+        },
+        {
+          skillName: "Notion",
+          fontAwesomeClassname: "simple-icons:notion",
+          style: {
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Microsoft Project",
+          fontAwesomeClassname: "simple-icons:microsoft",
+          style: {
+            color: "#217346",
+          },
+        },
+        {
+          skillName: "Agile PLM",
+          fontAwesomeClassname: "material-symbols:engineering",
+          style: {
+            color: "#F57C00",
+          },
+        },
+      ],
+    },
+    {
+      title: "User Interface & User Experience Designing",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Creating engaging and user-centric UI designs using Figma, Moqups and Adobe XD to enhance digital experiences",
+        "⚡ Conducting user research and usability testing to gather insights and improve design decisions",
+        "⚡ Developing responsive and accessible designs that ensure seamless experiences across devices and screen sizes",
+        "⚡ Implementing UX best practices and design systems to maintain consistency and usability across applications",
+      ],
+      softwareSkills: [
+        {
           skillName: "Adobe XD",
           fontAwesomeClassname: "simple-icons:adobexd",
           style: {
@@ -219,46 +266,6 @@ const skills = {
             color: "#F24E1E",
           },
         },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
-          style: {
-            color: "#FF7C00",
-          },
-        },
-        {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
-          style: {
-            color: "#000000",
-          },
-        },
-      ],
-    },
-    {
-      title: "Frontend Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Developing responsive, user-friendly web interfaces with HTML, CSS, and JavaScript",
-        "⚡ Building responsive website front end using ReactJS framework and Visual Studio Code",
-        "⚡ Ensuring consistent performance and appearance across different browsers and devices using BrowserStack",
-        "⚡ Designing intuitive and visually appealing user interfaces using Figma that enhance user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
         // {
         //   skillName: "Sass",
         //   fontAwesomeClassname: "simple-icons:sass",
@@ -267,34 +274,34 @@ const skills = {
         //   },
         // },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Moqups",
+          fontAwesomeClassname: "simple-icons:moqups",
           style: {
             backgroundColor: "#000000",
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
+        // {
+        //   skillName: "Balsamiq",
+        //   fontAwesomeClassname: "simple-icons:balsamiq",
+        //   style: {
+        //     color: "#61DAFB",
+        //   },
+        // },
+        // {
+        //   skillName: "NodeJS",
+        //   fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
+        //   style: {
+        //     color: "#339933",
+        //   },
+        // },
+        // {
+        //   skillName: "NPM",
+        //   fontAwesomeClassname: "simple-icons:npm",
+        //   style: {
+        //     color: "#CB3837",
+        //   },
+        // },
         // {
         //   skillName: "Yarn",
         //   fontAwesomeClassname: "simple-icons:yarn",
@@ -385,7 +392,7 @@ const degrees = {
       duration: "2016 - 2020",
       descriptions: [
         "⚡ I have studied basic Information Technology subjects like DS, Algorithms, Cloud Comuting, OS, etc.",
-        "⚡ Apart from this, I have done courses on Business Analytics and Intelligence, Data Science, and Web Development.",
+        "⚡ Apart from this, I have done courses on Business Analytics and Intelligence, Data Science, Financial Analysis and User Experience Designing.",
         "⚡ During my time at university, I showcased leadership and teamwork on the girls football team, leading us to win the Intercollege Football competition.",
         "⚡ I was selected for All-Rounder Student Scholarship, awarded to the top 7% of students at my college.",
       ],
@@ -398,9 +405,9 @@ const degrees = {
       alt_name: "Northeastern University, Boston",
       duration: "2023 - 2025",
       descriptions: [
-        "⚡ I have completed a range of Data Science courses, focusing on areas such as Data Analytics, Explainable AI, and Graph Machine Learning.",
-        "⚡ In addition to this, I am currently a Graduate Teaching Assistant, where I am mastering my skills in Project Management, Business Analytics, and Data Visualization.",
-        "⚡ Actively contributed to GWISE and APMC Club, working in product protothon that enhanced collaboration and innovation.",
+        "⚡ I have completed a range of Information Management courses, focusing on areas such as Data Science, Business Analytics, Project Management, Product Designing and Agile Software Development.",
+        "⚡ In addition to this, I am currently a Graduate Teaching Assistant, where I am mentoring students through career planning sessions and facilitating resume optimization workshops.",
+        "⚡ Actively contributed to GWISE and Women’s Interdisciplinary Society of Entrepreneurship (WISE) Club, creating an empowering environment and fostering trust-based relationships.",
       ],
       website_link: "https://www.northeastern.edu/",
     },
@@ -500,6 +507,15 @@ const certifications = {
       color_code: "#FFBB0099",
     },
     {
+      title: "Python for Finance",
+      subtitle: "- LinkedIn Learning",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://drive.google.com/file/d/174nHkN3DZVPc41vdsoGIvm_kRyjD8QIj/view?usp=sharing",
+      alt_name: "LinkedIn Learning",
+      color_code: "#4285F499",
+    },
+    {
       title: "AI for Product Management",
       subtitle: "- Google Cloud",
       logo_path: "aiProduct_logo.png",
@@ -525,13 +541,28 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Leadership",
   description:
-    "I have worked as a Business Analyst with diverse companies, refining my skills through hands-on internships and leading teams to success. My journey spans various projects in business analysis, data science, and project management. I love driving innovation and efficiency, which is why I thrive in both professional roles and leadership positions.",
+    "I have worked as a Business Analyst with diverse companies, refining my skills through hands-on internships and leading teams to success. My journey spans various projects in financial analysis, business analysis, data science, and project management. I love driving innovation and efficiency, which is why I thrive in both professional roles and leadership positions.",
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Work",
+      title: "Work Experience",
       work: true,
       experiences: [
+        {
+          title: "Finance and Business Control Analyst",
+          company: "Volvo Group",
+          company_url: "https://www.volvogroup.com/en/",
+          logo_path: "volvo_logo.png",
+          duration: "Sept 2024 - Dec 2024",
+          location: "Virginia, United States",
+          description: [
+            "● Partnered with Credit, Tax, and Business Control teams to optimize financial processes, increasing operational efficiency by 40%.",
+            "● Automated data reconciliation workflows using Power Query and Excel, boosting financial report reliability by 90% and reducing reporting errors by 75%.",
+            "● Designed and implemented automated data pipelines, consolidating workflows and improving reporting accuracy by 90%.",
+            "● Standardized financial reporting procedures, identifying opportunities for $120K in annual cost savings through optimized resource allocation.",
+          ],
+          color: "#000000",
+        },
         {
           title: "Product Business Analyst",
           company: "Adventus Education(India) Pvt Ltd.",
@@ -539,8 +570,12 @@ const experience = {
           logo_path: "adventus_logo.png",
           duration: "Apr 2023 - Aug 2023",
           location: "Pune, Maharashtra",
-          description:
-            "I enhanced resource management efficiency by 20% and improved go-to-market strategies by 18% through effective stakeholder management and data analysis. My support measures reduced product delivery time by 10% and streamlined communication, cutting misunderstandings by 20%.",
+          description: [
+            "● Led requirement-gathering meetings with key stakeholders using Confluence and Microsoft Word, improving resource management efficiency by 20%.",
+            "● Analyzed internal user journeys and optimized processes, reducing fallout steps by 10 per project.",
+            "● Developed and implemented solutions through comprehensive project documents outlining functional and non-functional business requirements using Microsoft Word and G Suite, reducing misunderstandings by 20%.",
+            "● Utilized SQL and PowerPoint to uncover trends from requirement meetings, enhancing decision-making and productivity by 30%.",
+          ],
           color: "#000000",
         },
         {
@@ -550,15 +585,13 @@ const experience = {
           logo_path: "adeption_logo.png",
           duration: "Feb 2021 - Mar 2023",
           location: "Pune, Maharashtra",
-          description:
-            "I boosted project delivery efficiency by 30% and reduced project time by 20% using Agile methodologies. Leading a cross-functional team, I increased app downloads by 30% and improved product quality by 25%. My efforts resolved critical workflow issues, enhancing system performance by 25% and reducing downtime by 40%.",
-          color: "#0879bf",
+          description: [
+            "● Drafted detailed BRD, FRD, and SRS documents for 10 projects using Google Suite and Excel, boosting delivery efficiency by 30%.",
+            "● Directed a 5-member cross-functional team (product, engineering, sales, support) to troubleshoot complex issues, ensuring smooth app functionality and enhancing the user experience by 30%.",
+            "● Enhanced business documentation through collaboration, cutting development time by 40% and improving product quality by 25%.",
+          ],
+          color: "#000000",
         },
-      ],
-    },
-    {
-      title: "Internships",
-      experiences: [
         {
           title: "Data Analytics Intern",
           company: "KPMG India",
@@ -566,8 +599,11 @@ const experience = {
           logo_path: "kpmg_logo.png",
           duration: "Jul 2020 - Aug 2020",
           location: "Mumbai, Maharashtra",
-          description:
-            "I excelled in Data Quality Assessment, Data Insights, and Presentation, crafting impactful PowerBI presentations that enhanced client decision-making by 20%. Leveraging SQL and PowerBI, I identified key trends and insights, driving a 15% revenue increase.",
+          description: [
+            "● Conducted data quality assessments, extracted insights, and presented findings using PowerBI, improving client decision-making by 20%.",
+            "● Leveraged SQL to analyze large datasets, identifying key trends and insights that contributed to a 15% revenue increase.",
+            "● Created impactful PowerPoint presentations that translated complex data into actionable business strategies.",
+          ],
           color: "#000000",
         },
       ],
@@ -586,17 +622,17 @@ const experience = {
             "Representing the Women’s Interdisciplinary Society of Entrepreneurship (WISE) community by collecting feedback and driving thoughtful discussions, working with partnership with university senior management. Our efforts resulted in changing university policies to better support women entrepreneurs, fostering a more inclusive and empowering environment for female students pursuing entrepreneurial endeavors. ",
           color: "#4285F4",
         },
-        {
-          title: "Secretary- General",
-          company: "APMC-Northeastern",
-          company_url: "https://www.apmcneu.com/",
-          logo_path: "apmc_logo.png",
-          duration: "Dec 2023 - July 2024",
-          location: "Boston, MA",
-          description:
-            "I developed and executed strategic plans to improve Aspiring Product Managers Club(APMC) engagement. Recruited and led a team of 20+ volunteer Club Champions promoting the 60 members club through various channels, including social media, newsletters, and partnerships.",
-          color: "#000000",
-        },
+        // {
+        //   title: "Secretary- General",
+        //   company: "APMC-Northeastern",
+        //   company_url: "https://www.apmcneu.com/",
+        //   logo_path: "apmc_logo.png",
+        //   duration: "Dec 2023 - July 2024",
+        //   location: "Boston, MA",
+        //   description:
+        //     "I developed and executed strategic plans to improve Aspiring Product Managers Club(APMC) engagement. Recruited and led a team of 20+ volunteer Club Champions promoting the 60 members club through various channels, including social media, newsletters, and partnerships.",
+        //   color: "#000000",
+        // },
         {
           title: "Graduate Ambassador",
           company: "Husky Sisters Code-Northeastern",
@@ -641,7 +677,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects focus on Business Analysis, Data Science, and Process Optimization. I specialize in streamlining business processes through requirement analysis and Agile methodologies, analyzing complex datasets to develop predictive models, and creating actionable insights that drive efficiency and decision-making.",
+    "My projects focus on Business Analysis, Data Science, Process Optimization and Project Planning and Management. I specialize in streamlining business processes through requirement analysis and Agile methodologies, analyzing complex datasets to develop predictive models, and creating actionable insights that drive efficiency and decision-making.",
   avatar_image_path: "projects_image.svg",
 };
 
