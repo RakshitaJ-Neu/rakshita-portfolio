@@ -22,7 +22,7 @@ const greeting = {
   title: "Rakshita Jaiswal",
   logo_name: "Rakshita Jaiswal",
   subTitle:
-    "A versatile professional with three years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
+    "A versatile professional and Finance enthusiast with four years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business and finance needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
   resumeLink:
     "https://drive.google.com/file/d/1ToBAQPtEZYGKuVva818awFvI22qjokKB/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
@@ -83,9 +83,9 @@ const skills = {
       skills: [
         //" In today's competitive market, the need for business analysis has never been more crucial. Every decision made within an organization, whether big or small, can have a significant impact on its overall success.",
         "⚡ Translate business needs into detailed BRD, FRD, and SRS documents using Microsoft Word and G Suite, ensuring clarity and precision",
-        "⚡ Coordinate requirement-gathering meetings with Slack and Teams, fostering collaboration and clear communication with stakeholders",
+        "⚡ Optimized data reconciliation workflows using Power Query and Microsoft PowerAutomate, resulting in a significant increase in financial report reliability and reducing reporting errors",
         "⚡ Comprehensive market research and competitive analysis using SWOT Analysis to drive informed decision-making",
-        "⚡ Optimize business processes with Miro and Six Sigma, enhancing efficiency and reducing operational bottlenecks",
+        "⚡ Collaborated with cross-functional teams: Finance, Business Control, Development to streamline processes, and enhance operational efficiency ",
         "⚡ Leverage data analysis with Excel and Google Analytics to inform strategic decisions and improve go-to-market strategies",
       ],
       softwareSkills: [
@@ -97,54 +97,55 @@ const skills = {
         //   },
         // },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "Microsoft PowerAutomate",
+          fontAwesomeClassname: "simple-icons:powerautomate",
           style: {
             color: "#FF9900",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "PowerBI",
+          fontAwesomeClassname: "simple-icons:powerbi",
           style: {
             color: "#0089D6",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "Tableau",
+          fontAwesomeClassname: "simple-icons:tableau",
           style: {
             color: "#47A248",
           },
         },
         {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
+          skillName: "Google Analytics",
+          fontAwesomeClassname: "simple-icons:googleanalytics",
+          style: {
+            color: "#FFCA28",
+          },
+        },
+        {
+          skillName: "Advanced SQL",
+          fontAwesomeClassname: "simple-icons:mysql",
           style: {
             color: "#1488C6",
           },
         },
         {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
+          skillName: "Miro",
+          fontAwesomeClassname: "simple-icons:miro",
           style: {
-            color: "#326CE5",
+            color: "#336791",
           },
         },
+
+        // {
+        //   skillName: "Kubernetes",
+        //   fontAwesomeClassname: "simple-icons:kubernetes",
+        //   style: {
+        //     color: "#326CE5",
+        //   },
+        // },
       ],
     },
 
@@ -329,58 +330,58 @@ const skills = {
 };
 
 // Education Page
-const competitiveSites = {
-  competitiveSites: [
-    {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#F79F1B",
-      },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
-  ],
-};
+// const competitiveSites = {
+//   competitiveSites: [
+//     {
+//       siteName: "LeetCode",
+//       iconifyClassname: "simple-icons:leetcode",
+//       style: {
+//         color: "#F79F1B",
+//       },
+//       profileLink: "https://leetcode.com/layman_brother/",
+//     },
+//     {
+//       siteName: "HackerRank",
+//       iconifyClassname: "simple-icons:hackerrank",
+//       style: {
+//         color: "#2EC866",
+//       },
+//       profileLink: "https://www.hackerrank.com/layman_brother",
+//     },
+//     {
+//       siteName: "Codechef",
+//       iconifyClassname: "simple-icons:codechef",
+//       style: {
+//         color: "#5B4638",
+//       },
+//       profileLink: "https://www.codechef.com/users/ashutosh_1919",
+//     },
+//     {
+//       siteName: "Codeforces",
+//       iconifyClassname: "simple-icons:codeforces",
+//       style: {
+//         color: "#1F8ACB",
+//       },
+//       profileLink: "http://codeforces.com/profile/layman_brother",
+//     },
+//     {
+//       siteName: "Hackerearth",
+//       iconifyClassname: "simple-icons:hackerearth",
+//       style: {
+//         color: "#323754",
+//       },
+//       profileLink: "https://www.hackerearth.com/@ashutosh391",
+//     },
+//     {
+//       siteName: "Kaggle",
+//       iconifyClassname: "simple-icons:kaggle",
+//       style: {
+//         color: "#20BEFF",
+//       },
+//       profileLink: "https://www.kaggle.com/laymanbrother",
+//     },
+//   ],
+// };
 
 const degrees = {
   degrees: [
@@ -751,7 +752,7 @@ export {
   greeting,
   socialMediaLinks,
   skills,
-  competitiveSites,
+  //competitiveSites,
   degrees,
   certifications,
   experience,
