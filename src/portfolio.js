@@ -22,7 +22,7 @@ const greeting = {
   title: "Rakshita Jaiswal",
   logo_name: "Rakshita Jaiswal",
   subTitle:
-    "A versatile professional and Finance enthusiast with four years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business and finance needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
+    "A versatile professional and finance enthusiast with four years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business and finance needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
   resumeLink:
     "https://drive.google.com/file/d/1ToBAQPtEZYGKuVva818awFvI22qjokKB/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
@@ -557,10 +557,7 @@ const experience = {
           duration: "Sept 2024 - Dec 2024",
           location: "Virginia, United States",
           description: [
-            "● Partnered with Credit, Tax, and Business Control teams to optimize financial processes, increasing operational efficiency by 40%.",
-            "● Automated data reconciliation workflows using Power Query and Excel, boosting financial report reliability by 90% and reducing reporting errors by 75%.",
-            "● Designed and implemented automated data pipelines, consolidating workflows and improving reporting accuracy by 90%.",
-            "● Standardized financial reporting procedures, identifying opportunities for $120K in annual cost savings through optimized resource allocation.",
+            "Working closely with Credit, Tax and Business Control teams, I was actively involved in optimizing financial processes, leading to a 40% increase in operational efficiency. By automating data reconciliation workflows using Power Query and Excel, I significantly enhanced financial report reliability by 90% while reducing reporting errors by 75%. Additionally, I designed and implemented automated data pipelines that streamlined workflows and further improved reporting accuracy by 90%. My efforts in standardizing financial reporting procedures also helped uncover opportunities for $120K in annual cost savings through optimized resource allocation.",
           ],
           color: "#000000",
         },
@@ -572,10 +569,7 @@ const experience = {
           duration: "Apr 2023 - Aug 2023",
           location: "Pune, Maharashtra",
           description: [
-            "● Led requirement-gathering meetings with key stakeholders using Confluence and Microsoft Word, improving resource management efficiency by 20%.",
-            "● Analyzed internal user journeys and optimized processes, reducing fallout steps by 10 per project.",
-            "● Developed and implemented solutions through comprehensive project documents outlining functional and non-functional business requirements using Microsoft Word and G Suite, reducing misunderstandings by 20%.",
-            "● Utilized SQL and PowerPoint to uncover trends from requirement meetings, enhancing decision-making and productivity by 30%.",
+            "I conducted requirements-gathering meetings with business leaders and key stakeholders, using Confluence and Microsoft Word to improve resource management efficiency by 20%. Through internal user journey analytics, I optimized processes, reducing fallout steps by 10 per project. Additionally, I developed and implemented solutions through detailed project documentation, clearly outlining functional and non-functional business requirements using Microsoft Word and G Suite, which minimized misunderstandings by 20%. To further support data-driven decision-making, I utilized SQL and PowerPoint to identify trends from requirement meetings, improving overall productivity by 30%.",
           ],
           color: "#000000",
         },
@@ -587,9 +581,7 @@ const experience = {
           duration: "Feb 2021 - Mar 2023",
           location: "Pune, Maharashtra",
           description: [
-            "● Drafted detailed BRD, FRD, and SRS documents for 10 projects using Google Suite and Excel, boosting delivery efficiency by 30%.",
-            "● Directed a 5-member cross-functional team (product, engineering, sales, support) to troubleshoot complex issues, ensuring smooth app functionality and enhancing the user experience by 30%.",
-            "● Enhanced business documentation through collaboration, cutting development time by 40% and improving product quality by 25%.",
+            "I drafted comprehensive Business Requirement Documents (BRD), Functional Requirement Documents (FRD), and Software Requirement Specifications (SRS) for 10 projects using Google Suite and Excel, increasing delivery efficiency by 30%. By facilitating the troubleshooting of complex issues as a cross-functional lead with a 5-member team that included product, engineering, sales and support, our team ensured the functionality of the app, increasing the user experience by 30%. These initiatives ensured quality and compliance while diminishing development time by 40% through team initiatives to enhance business documentation; improving product quality by 25%.",
           ],
           color: "#000000",
         },
@@ -601,9 +593,7 @@ const experience = {
           duration: "Jul 2020 - Aug 2020",
           location: "Mumbai, Maharashtra",
           description: [
-            "● Conducted data quality assessments, extracted insights, and presented findings using PowerBI, improving client decision-making by 20%.",
-            "● Leveraged SQL to analyze large datasets, identifying key trends and insights that contributed to a 15% revenue increase.",
-            "● Created impactful PowerPoint presentations that translated complex data into actionable business strategies.",
+            "I performed data quality checks, derived actionable insights and visualized results on Power BI, improving client decision making by 20%. Utilizing SQL to perform analyses on big data sets, I helped diagnose trends which directly resulted in a 15% increase in revenue. I turned a spreadsheet full of numbers into concise and powerful PowerPoint presentations where insight from the analysis could be best utilized as an action plan to reach the target milestones more closely.",
           ],
           color: "#000000",
         },
@@ -613,8 +603,19 @@ const experience = {
       title: "Leadership",
       experiences: [
         {
+          title: "Graduate Teaching Assistant",
+          company: "College of Engineering - Northeastern University",
+          company_url: "https://www.northeasternwise.com/",
+          logo_path: "NortheasternCOE.png",
+          duration: "Jan 2025 - Present",
+          location: "Boston, MA",
+          description:
+            "As a Graduate Teaching Assistant, I guide and mentor students in career planning sessions, which has significantly improved internships application success rates. I also conduct engaging talks in both personal & leadership development goals and career management strategies, equipping students with the skills needed for professional growth. Additionally, I facilitate career development workshops that enhance leadership and time management skills.",
+          color: "#4285F4",
+        },
+        {
           title: "Graduate Representative",
-          company: "WISE-Northeastern",
+          company: "WISE- Northeastern University",
           company_url: "https://www.northeasternwise.com/",
           logo_path: "gwise_logo.png",
           duration: "Sept 2023 - Present",
@@ -623,20 +624,9 @@ const experience = {
             "Representing the Women’s Interdisciplinary Society of Entrepreneurship (WISE) community by collecting feedback and driving thoughtful discussions, working with partnership with university senior management. Our efforts resulted in changing university policies to better support women entrepreneurs, fostering a more inclusive and empowering environment for female students pursuing entrepreneurial endeavors. ",
           color: "#4285F4",
         },
-        // {
-        //   title: "Secretary- General",
-        //   company: "APMC-Northeastern",
-        //   company_url: "https://www.apmcneu.com/",
-        //   logo_path: "apmc_logo.png",
-        //   duration: "Dec 2023 - July 2024",
-        //   location: "Boston, MA",
-        //   description:
-        //     "I developed and executed strategic plans to improve Aspiring Product Managers Club(APMC) engagement. Recruited and led a team of 20+ volunteer Club Champions promoting the 60 members club through various channels, including social media, newsletters, and partnerships.",
-        //   color: "#000000",
-        // },
         {
           title: "Graduate Ambassador",
-          company: "Husky Sisters Code-Northeastern",
+          company: "Husky Sisters Code- Northeastern University",
           company_url:
             "https://coe.northeastern.edu/orgs/husky-systers-code/#:~:text=As%20women%20in%20the%20graduate,be%20better%20versions%20of%20ourselves.",
           logo_path: "huskySis_logo.png",
@@ -678,7 +668,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects focus on Business Analysis, Data Science, Process Optimization and Project Planning and Management. I specialize in streamlining business processes through requirement analysis and Agile methodologies, analyzing complex datasets to develop predictive models, and creating actionable insights that drive efficiency and decision-making.",
+    "My projects focus on Finance & Business Control Analysis, Process Automation, Project Planning and Data-Driven Decision-Making. With expertise in requirement analysis and Agile methodologies, I streamline financial workflows, automate reporting, and enhance data accuracy. By analyzing complex datasets and developing predictive models, I create actionable insights that drive efficiency, reduce manual effort, and support strategic decision-making.",
   avatar_image_path: "projects_image.svg",
 };
 
