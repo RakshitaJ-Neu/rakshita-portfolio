@@ -512,7 +512,7 @@ const certifications = {
       subtitle: "- LinkedIn Learning",
       logo_path: "linkedin_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/174nHkN3DZVPc41vdsoGIvm_kRyjD8QIj/view?usp=sharing",
+        "https://www.linkedin.com/learning/certificates/83a0ebba7840414c129d92fda0792f43ef5de1814b8d66b292107a8f05d48bea?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BEj7c79WfSlOAMOHZPlEwzw%3D%3D",
       alt_name: "LinkedIn Learning",
       color_code: "#4285F499",
     },
@@ -611,6 +611,17 @@ const experience = {
           location: "Boston, MA",
           description:
             "As a Graduate Teaching Assistant, I guide and mentor students in career planning sessions, which has significantly improved internships application success rates. I also conduct engaging talks in both personal & leadership development goals and career management strategies, equipping students with the skills needed for professional growth. Additionally, I facilitate career development workshops that enhance leadership and time management skills.",
+          color: "#4285F4",
+        },
+        {
+          title: "Media Services Specialist",
+          company: "Event Management - Northeastern University",
+          company_url: "https://www.northeasternwise.com/",
+          logo_path: "Northeastern_logo.png",
+          duration: "Jan 2025 - Present",
+          location: "Boston, MA",
+          description:
+            "I coordinate media services for events, ensuring high-quality audiovisual experiences through seamless setup, real-time troubleshooting, and collaboration with technical teams. By managing sound, video, lighting and live production elements, I enhance audience engagement and event impact while maintaining smooth operations.",
           color: "#4285F4",
         },
         {
