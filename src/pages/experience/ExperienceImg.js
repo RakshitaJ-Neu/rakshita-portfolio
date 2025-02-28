@@ -4,6 +4,6 @@ import ExperiencesImage from "./experience.png";
 export default class ExperienceImg extends Component {
   render() {
     const theme = this.props.theme;
-    return <img src={ExperiencesImage} alt="My Experiences" />;
+    return <img src={ExperiencesImage} />;
   }
 }
