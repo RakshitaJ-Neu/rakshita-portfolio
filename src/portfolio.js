@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A versatile professional and finance enthusiast with four years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business and finance needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
   resumeLink:
-    "https://drive.google.com/file/d/1NIkdPIGmD2gQzcBOHsEzo_oyxE5gPigC/view?usp=sharing",
+    "https://drive.google.com/file/d/16yOznea7TDxPV2QNwdpMiHouYz9QURUv/view?usp=drive_link",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/RakshitaJ-Neu",
 };
