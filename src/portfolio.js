@@ -602,34 +602,34 @@ const experience = {
     {
       title: "Leadership",
       experiences: [
-        {
-          title: "Graduate Teaching Assistant",
-          company: "College of Engineering - Northeastern University",
-          company_url: "https://www.northeasternwise.com/",
-          logo_path: "NortheasternCOE.png",
-          duration: "Jan 2025 - Present",
-          location: "Boston, MA",
-          description:
-            "As a Graduate Teaching Assistant, I guide and mentor students in career planning sessions, which has significantly improved internships application success rates. I also conduct engaging talks in both personal & leadership development goals and career management strategies, equipping students with the skills needed for professional growth. Additionally, I facilitate career development workshops that enhance leadership and time management skills.",
-          color: "#4285F4",
-        },
-        {
-          title: "Media Services Specialist",
-          company: "Event Management - Northeastern University",
-          company_url: "https://www.northeasternwise.com/",
-          logo_path: "Northeastern_logo.png",
-          duration: "Jan 2025 - Present",
-          location: "Boston, MA",
-          description:
-            "I coordinate media services for events, ensuring high-quality audiovisual experiences through seamless setup, real-time troubleshooting, and collaboration with technical teams. By managing sound, video, lighting and live production elements, I enhance audience engagement and event impact while maintaining smooth operations.",
-          color: "#4285F4",
-        },
+        // {
+        //   title: "Graduate Teaching Assistant",
+        //   company: "College of Engineering - Northeastern University",
+        //   company_url: "https://www.northeasternwise.com/",
+        //   logo_path: "NortheasternCOE.png",
+        //   duration: "Jan 2025 - Present",
+        //   location: "Boston, MA",
+        //   description:
+        //     "As a Graduate Teaching Assistant, I guide and mentor students in career planning sessions, which has significantly improved internships application success rates. I also conduct engaging talks in both personal & leadership development goals and career management strategies, equipping students with the skills needed for professional growth. Additionally, I facilitate career development workshops that enhance leadership and time management skills.",
+        //   color: "#4285F4",
+        // },
+        // {
+        //   title: "Media Services Specialist",
+        //   company: "Event Management - Northeastern University",
+        //   company_url: "https://www.northeasternwise.com/",
+        //   logo_path: "Northeastern_logo.png",
+        //   duration: "Jan 2025 - Present",
+        //   location: "Boston, MA",
+        //   description:
+        //     "I coordinate media services for events, ensuring high-quality audiovisual experiences through seamless setup, real-time troubleshooting, and collaboration with technical teams. By managing sound, video, lighting and live production elements, I enhance audience engagement and event impact while maintaining smooth operations.",
+        //   color: "#4285F4",
+        // },
         {
           title: "Graduate Representative",
           company: "WISE- Northeastern University",
           company_url: "https://www.northeasternwise.com/",
           logo_path: "gwise_logo.png",
-          duration: "Sept 2023 - Present",
+          duration: "Sept 2023 - February 2024",
           location: "Boston, MA",
           description:
             "Representing the Women’s Interdisciplinary Society of Entrepreneurship (WISE) community by collecting feedback and driving thoughtful discussions, working with partnership with university senior management. Our efforts resulted in changing university policies to better support women entrepreneurs, fostering a more inclusive and empowering environment for female students pursuing entrepreneurial endeavors. ",
