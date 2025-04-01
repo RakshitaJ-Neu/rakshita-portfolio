@@ -557,7 +557,7 @@ const experience = {
           duration: "Sept 2024 - Dec 2024",
           location: "Virginia, United States",
           description: [
-            "Working closely with Credit, Tax and Business Control teams, I was actively involved in optimizing financial processes, leading to a 40% increase in operational efficiency. By automating data reconciliation workflows using Power Query and Excel, I significantly enhanced financial report reliability by 90% while reducing reporting errors by 75%. Additionally, I designed and implemented automated data pipelines that streamlined workflows and further improved reporting accuracy by 90%. My efforts in standardizing financial reporting procedures also helped uncover opportunities for $120K in annual cost savings through optimized resource allocation.",
+            "Working closely with Credit, Tax and Business Control teams, I was actively involved in optimizing financial processes, leading to a 40% increase in operational efficiency. By automating data reconciliation workflows using Power Query and Excel, I significantly enhanced financial report reliability by 90% while reducing reporting errors by 75%. Additionally, I designed and implemented automated data pipelines that streamlined workflows and further improved reporting accuracy by 90%.",
           ],
           color: "#000000",
         },
