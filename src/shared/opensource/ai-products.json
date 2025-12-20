@@ -1,0 +1,180 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "AI-Powered AR Report Automation",
+      "createdAt": "2024-09-17T04:18:19Z",
+      "url": "https://drive.google.com/file/d/16Tv0yaIA_sg9YnnHjH896ZnwrfdVx7Cq/view?usp=sharing",
+      "description": "Intelligent automation system leveraging AI-driven data extraction and ML-based anomaly detection for AR reporting. Implemented NLP for document processing and predictive analytics to forecast payment patterns, reducing manual effort by 70% and achieving 95% accuracy through machine learning algorithms.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AI/ML",
+          "iconifyClass": "carbon:machine-learning-model"
+        },
+        {
+          "name": "Microsoft PowerAutomate",
+          "iconifyClass": "simple-icons:powerautomate"
+        },
+        {
+          "name": "Advanced Excel",
+          "iconifyClass": "simple-icons:microsoftexcel"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g2",
+      "name": "AI-Enhanced Tax Report Automation",
+      "createdAt": "2024-10-27T04:18:19Z",
+      "url": "https://drive.google.com/file/d/1W1DCybT6KsEWgiEZbECq0sUmmvXXNwN1/view?usp=sharing",
+      "description": "Smart tax reporting system powered by AI algorithms for intelligent data classification and validation. Utilizes machine learning for pattern recognition in tax data, automated compliance checking, and predictive error detection, ensuring 100% accuracy while eliminating manual processes through cognitive automation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AI/ML",
+          "iconifyClass": "carbon:machine-learning-model"
+        },
+        {
+          "name": "Microsoft PowerAutomate",
+          "iconifyClass": "simple-icons:powerautomate"
+        },
+        {
+          "name": "Advanced Excel",
+          "iconifyClass": "simple-icons:microsoftexcel"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g3",
+      "name": "AI-Driven Volume Estimates & Predictive Analytics",
+      "createdAt": "2024-12-11T04:18:19Z",
+      "url": "https://drive.google.com/file/d/1HNq3_S5Xna1xxc7Rwfh55fDFrSR-YpTb/view?usp=sharing",
+      "description": "Advanced predictive analytics platform using AI/ML models for financial forecasting and variance analysis. Implements deep learning algorithms for pattern recognition, automated anomaly detection, and intelligent data consolidation from multiple sources (SAP, SharePoint, Excel), achieving 90% prediction accuracy with real-time insights.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AI/ML",
+          "iconifyClass": "carbon:machine-learning-model"
+        },
+        {
+          "name": "PowerBI",
+          "iconifyClass": "simple-icons:powerbi"
+        },
+        {
+          "name": "Advanced SQL",
+          "iconifyClass": "simple-icons:mysql"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g4",
+      "name": "Intelligent Claims Processing System",
+      "createdAt": "2024-04-07T04:18:19Z",
+      "url": "https://drive.google.com/file/d/1XRTmo2CnNgTJopP6CSaQE_6Q90qGR46t/view",
+      "description": "AI-powered claims processing platform utilizing NLP for document analysis, computer vision for claim validation, and ML algorithms for fraud detection. Features intelligent routing, automated decision-making, and predictive resource allocation, reducing processing time by 30% while improving accuracy through continuous learning.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AI/ML",
+          "iconifyClass": "carbon:machine-learning-model"
+        },
+        {
+          "name": "NLP",
+          "iconifyClass": "carbon:text-mining"
+        },
+        {
+          "name": "Tableau",
+          "iconifyClass": "simple-icons:tableau"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g5",
+      "name": "AI-Based Titanic Survival Prediction Model",
+      "createdAt": "2023-10-02T04:18:19Z",
+      "url": "https://github.com/RakshitaJ-Neu/titanic-survival-prediction",
+      "description": "Machine learning classification system implementing ensemble methods (Random Forest, XGBoost, Neural Networks) for survival prediction. Features advanced feature engineering, hyperparameter optimization, and model interpretability using SHAP values. Achieved 85%+ accuracy through sophisticated ML pipeline and cross-validation techniques.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
+        },
+        {
+          "name": "Scikit-learn",
+          "iconifyClass": "simple-icons:scikitlearn"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g6",
+      "name": "AI-Powered Financial Forecasting Engine",
+      "createdAt": "2024-11-15T04:18:19Z",
+      "url": "https://drive.google.com/file/d/1example",
+      "description": "Advanced time-series forecasting system using LSTM neural networks and ensemble ML models for financial predictions. Integrates real-time market data, sentiment analysis from news sources, and automated feature engineering to predict revenue trends, cash flow patterns, and budget variances with 92% accuracy.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Deep Learning",
+          "iconifyClass": "carbon:neural-network"
+        },
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOJWL0-g7",
+      "name": "Intelligent Business Process Mining Platform",
+      "createdAt": "2024-08-20T04:18:19Z",
+      "url": "https://drive.google.com/file/d/1example2",
+      "description": "AI-driven process mining solution using machine learning to analyze business workflows, identify bottlenecks, and recommend optimizations. Features automated process discovery, conformance checking with AI, and predictive process monitoring that reduces operational inefficiencies by 40% through intelligent insights.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "AI/ML",
+          "iconifyClass": "carbon:machine-learning-model"
+        },
+        {
+          "name": "Process Mining",
+          "iconifyClass": "carbon:flow"
+        },
+        {
+          "name": "Azure DevOps",
+          "iconifyClass": "simple-icons:azuredevops"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "AI-Enhanced Portfolio Platform",
+      "createdAt": "2024-08-07T16:26:54Z",
+      "url": "https://github.com/RakshitaJ-Neu/rakshita-portfolio",
+      "description": "Intelligent portfolio platform featuring AI-powered content recommendations, dynamic skill matching, and ML-based visitor analytics. Implements natural language processing for automated content generation and personalized user experiences, showcasing the intersection of AI and modern web development.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "AI Integration",
+          "iconifyClass": "carbon:ai-results"
+        }
+      ]
+    }
+  ]
+}

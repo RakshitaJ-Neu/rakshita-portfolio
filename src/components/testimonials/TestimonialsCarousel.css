@@ -1,0 +1,134 @@
+.testimonials-carousel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: fadeIn 1s ease-in-out;
+}
+
+.testimonial-card {
+  max-width: 600px;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  position: relative;
+  animation: slideIn 0.5s ease-in-out;
+  transition: transform 0.3s ease;
+}
+
+.testimonial-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.quote-icon {
+  font-size: 80px;
+  font-family: Georgia, serif;
+  line-height: 0.5;
+  opacity: 0.3;
+  margin-bottom: 20px;
+}
+
+.testimonial-text {
+  font-size: 18px;
+  line-height: 1.8;
+  margin: 20px 0;
+  font-family: "Google Sans Medium";
+  font-style: italic;
+}
+
+.testimonial-author {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.author-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0 5px 0;
+  font-family: "Google Sans Bold";
+}
+
+.author-role {
+  font-size: 14px;
+  margin: 5px 0;
+  font-family: "Google Sans Regular";
+}
+
+.rating {
+  margin-top: 10px;
+}
+
+.star {
+  font-size: 20px;
+  margin: 0 2px;
+}
+
+.carousel-dots {
+  display: flex;
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  padding: 0;
+}
+
+.dot:hover {
+  transform: scale(1.2);
+}
+
+.dot.active {
+  width: 30px;
+  border-radius: 6px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .testimonial-card {
+    padding: 30px 20px;
+    max-width: 100%;
+  }
+
+  .testimonial-text {
+    font-size: 16px;
+  }
+
+  .quote-icon {
+    font-size: 60px;
+  }
+
+  .author-name {
+    font-size: 18px;
+  }
+
+  .author-role {
+    font-size: 13px;
+  }
+}

@@ -45,6 +45,13 @@ class Projects extends Component {
                 >
                   {projectsHeader["description"]}
                 </p>
+                <Button
+                  text={"🤖 View AI Products Portfolio"}
+                  className="project-button"
+                  href="/aiproducts"
+                  newTab={false}
+                  theme={theme}
+                />
               </div>
             </div>
           </Fade>

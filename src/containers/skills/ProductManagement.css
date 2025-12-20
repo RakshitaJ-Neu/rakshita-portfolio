@@ -1,0 +1,41 @@
+.pm-svg-container {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.pm-animated-svg {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.1));
+}
+
+/* Hover effects */
+.pm-animated-svg:hover .screen {
+  filter: brightness(1.2);
+}
+
+.pm-animated-svg:hover .laptop-screen {
+  filter: brightness(1.2);
+}
+
+.pm-animated-svg:hover .notification {
+  animation: pulse-notification 0.5s ease-in-out infinite;
+}
+
+@keyframes pulse-notification {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .pm-svg-container {
+    max-width: 100%;
+    padding: 20px;
+  }
+}

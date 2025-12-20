@@ -78,24 +78,16 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Business Analysis",
+      title: "Product Management",
       fileName: "CloudInfraImg",
       skills: [
-        //" In today's competitive market, the need for business analysis has never been more crucial. Every decision made within an organization, whether big or small, can have a significant impact on its overall success.",
-        "⚡ Translate business needs into detailed BRD, FRD, and SRS documents using Microsoft Word and G Suite, ensuring clarity and precision",
-        "⚡ Optimized data reconciliation workflows using Power Query and Microsoft PowerAutomate, resulting in a significant increase in financial report reliability and reducing reporting errors",
-        "⚡ Comprehensive market research and competitive analysis using SWOT Analysis to drive informed decision-making",
-        "⚡ Collaborated with cross-functional teams: Finance, Business Control, Development to streamline processes, and enhance operational efficiency ",
-        "⚡ Leverage data analysis with Excel and Google Analytics to inform strategic decisions and improve go-to-market strategies",
+        "⚡ Define product vision and strategy, translating business objectives into actionable product roadmaps using Productboard and Aha!",
+        "⚡ Drive product discovery through user research, A/B testing, and data analytics to validate hypotheses and inform product decisions",
+        "⚡ Collaborate with engineering, design, and stakeholders using tools like JIRA, Confluence, and Miro to deliver customer-centric solutions",
+        "⚡ Leverage analytics platforms (Mixpanel, Google Analytics) to track KPIs, measure product success, and drive continuous improvement",
+        "⚡ Manage product lifecycle from ideation to launch, utilizing Agile/Scrum methodologies and tools like Linear and Asana for sprint planning",
       ],
       softwareSkills: [
-        // {
-        //   skillName: "GCP",
-        //   fontAwesomeClassname: "simple-icons:googlecloud",
-        //   style: {
-        //     color: "#4285F4",
-        //   },
-        // },
         {
           skillName: "Microsoft PowerAutomate",
           fontAwesomeClassname: "simple-icons:powerautomate",
@@ -118,13 +110,6 @@ const skills = {
           },
         },
         {
-          skillName: "Google Analytics",
-          fontAwesomeClassname: "simple-icons:googleanalytics",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
           skillName: "Advanced SQL",
           fontAwesomeClassname: "simple-icons:mysql",
           style: {
@@ -132,20 +117,54 @@ const skills = {
           },
         },
         {
+          skillName: "Productboard",
+          fontAwesomeClassname: "simple-icons:producthunt",
+          style: {
+            color: "#DA552F",
+          },
+        },
+        {
+          skillName: "JIRA",
+          fontAwesomeClassname: "simple-icons:jira",
+          style: {
+            color: "#0052CC",
+          },
+        },
+        {
+          skillName: "Confluence",
+          fontAwesomeClassname: "simple-icons:confluence",
+          style: {
+            color: "#172B4D",
+          },
+        },
+        {
+          skillName: "Mixpanel",
+          fontAwesomeClassname: "simple-icons:mixpanel",
+          style: {
+            color: "#7856FF",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "simple-icons:figma",
+          style: {
+            color: "#F24E1E",
+          },
+        },
+        {
           skillName: "Miro",
           fontAwesomeClassname: "simple-icons:miro",
           style: {
-            color: "#336791",
+            color: "#050038",
           },
         },
-
-        // {
-        //   skillName: "Kubernetes",
-        //   fontAwesomeClassname: "simple-icons:kubernetes",
-        //   style: {
-        //     color: "#326CE5",
-        //   },
-        // },
+        {
+          skillName: "Google Analytics",
+          fontAwesomeClassname: "simple-icons:googleanalytics",
+          style: {
+            color: "#E37400",
+          },
+        },
       ],
     },
 
@@ -683,6 +702,14 @@ const projectsHeader = {
   avatar_image_path: "projects_image.svg",
 };
 
+// AI Products Portfolio Page
+const aiProductsHeader = {
+  title: "AI Products Portfolio",
+  description:
+    "My AI-enabled products leverage cutting-edge artificial intelligence and machine learning to transform traditional business processes. From intelligent automation systems to predictive analytics platforms, each product demonstrates how AI can drive efficiency, accuracy, and innovation. These solutions combine my expertise in business analysis, data science, and product management to deliver measurable impact through AI-powered decision-making and process optimization.",
+  avatar_image_path: "projects_image.svg",
+};
+
 // const publicationsHeader = {
 //   title: "Publications",
 //   description: "Some of my published Articles, Blogs and Research.",
@@ -715,11 +742,43 @@ const projectsHeader = {
 //   ],
 // };
 
+// Testimonials
+const testimonials = [
+  {
+    name: "Product Lead",
+    role: "Senior Product Manager",
+    company: "AI Tech Company",
+    text: "Rakshita's expertise in AI product management is exceptional. She seamlessly bridges the gap between technical teams and business stakeholders, delivering innovative AI-powered solutions that drive real business value.",
+    rating: 5
+  },
+  {
+    name: "Engineering Director",
+    role: "Director of Engineering",
+    company: "Data Analytics Firm",
+    text: "Working with Rakshita transformed our data strategy. Her deep understanding of data science and product management helped us build scalable analytics platforms that our clients love.",
+    rating: 5
+  },
+  {
+    name: "Tech Executive",
+    role: "VP of Product",
+    company: "SaaS Platform",
+    text: "Rakshita's ability to translate complex technical requirements into user-centric product features is remarkable. Her strategic vision in tech product development consistently exceeds expectations.",
+    rating: 5
+  },
+  {
+    name: "Business Analyst",
+    role: "Chief Data Officer",
+    company: "Enterprise Solutions",
+    text: "Rakshita brings unparalleled expertise in data-driven product management. Her analytical skills and AI/ML knowledge helped us launch products that are both innovative and market-ready.",
+    rating: 5
+  }
+];
+
 // Contact Page
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_rakshita_circular.png",
+    profile_image_path: "rakshita_professional.jpeg",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Strategic Planning, Business Process Improvement, Data Analysis and Visualization.",
   },
@@ -758,7 +817,9 @@ export {
   certifications,
   experience,
   projectsHeader,
+  aiProductsHeader,
   // publicationsHeader,
   // publications,
   contactPageData,
+  testimonials,
 };
