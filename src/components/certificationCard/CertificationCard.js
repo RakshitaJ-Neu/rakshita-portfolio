@@ -27,7 +27,7 @@ class CertificationCard extends Component {
                 />
               </div>
               <div className="content-details fadeIn-top">
-                <h3 className="content-title" style={{ color: theme.body }}>
+                <h3 className="content-title" style={{ color: "#FFFFFF" }}>
                   Certificate
                 </h3>
               </div>

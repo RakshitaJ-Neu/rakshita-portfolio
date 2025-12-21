@@ -8,6 +8,7 @@
   line-height: normal;
   font-family: "Google Sans Regular";
   text-align: center;
+  margin-bottom: 80px;
 }
 
 .skills-text {
@@ -66,6 +67,7 @@
   font-weight: 400;
   font-family: "Google Sans Regular";
   line-height: normal;
+  margin-top: 60px;
 }
 
 /* Media Query */

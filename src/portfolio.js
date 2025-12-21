@@ -81,11 +81,10 @@ const skills = {
       title: "Product Management",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Define product vision and strategy, translating business objectives into actionable product roadmaps using Productboard and Aha!",
-        "⚡ Drive product discovery through user research, A/B testing, and data analytics to validate hypotheses and inform product decisions",
-        "⚡ Collaborate with engineering, design, and stakeholders using tools like JIRA, Confluence, and Miro to deliver customer-centric solutions",
-        "⚡ Leverage analytics platforms (Mixpanel, Google Analytics) to track KPIs, measure product success, and drive continuous improvement",
-        "⚡ Manage product lifecycle from ideation to launch, utilizing Agile/Scrum methodologies and tools like Linear and Asana for sprint planning",
+        "⚡ Define product vision & strategy using Productboard and Aha!",
+        "⚡ Drive product discovery through user research & A/B testing",
+        "⚡ Collaborate with cross-functional teams using JIRA & Confluence",
+        "⚡ Track KPIs with Mixpanel & Google Analytics for data-driven decisions",
       ],
       softwareSkills: [
         {
@@ -172,10 +171,10 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Create impactful visualizations with Tableau and Power BI to effectively communicate data-driven insights",
-        "⚡ Utilize Pandas, NumPy, Sci-Kit Learn, and TensorFlow to manipulate data and build robust models",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Optimize and deploy machine learning algorithms like Logistic Regression, Decision Trees, and Random Forests",
+        "⚡ Create impactful visualizations with Tableau & Power BI",
+        "⚡ Build ML models using TensorFlow, Pandas & Scikit-Learn",
+        "⚡ Experience with Computer Vision & NLP projects",
+        "⚡ Deploy ML algorithms for predictive analytics",
       ],
       softwareSkills: [
         {
@@ -218,11 +217,10 @@ const skills = {
       title: "Project Management",
       fileName: "DesignImg",
       skills: [
-        "⚡ Led cross-functional teams with Azure DevOps to deliver high-quality projects on time and within scope",
-        "⚡ Implement strategic Project Management practices and process workflows using Agile frameworks and JIRA",
-        "⚡ Manage resources effectively with efficient tools like Microsoft Project",
-        "⚡ Identify and Mitigate risks using SWOT Analysis and risk management techniques",
-        "⚡ Monitor and control project risk, timeline, and budget, ultimately driving success and creating value for clients",
+        "⚡ Lead cross-functional teams using Azure DevOps & Agile frameworks",
+        "⚡ Manage resources & timelines with Microsoft Project & JIRA",
+        "⚡ Identify & mitigate risks using SWOT Analysis",
+        "⚡ Drive project success within scope, timeline & budget",
       ],
       softwareSkills: [
         {
@@ -266,10 +264,10 @@ const skills = {
       title: "User Interface & User Experience Designing",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Creating engaging and user-centric UI designs using Figma, Moqups and Adobe XD to enhance digital experiences",
-        "⚡ Conducting user research and usability testing to gather insights and improve design decisions",
-        "⚡ Developing responsive and accessible designs that ensure seamless experiences across devices and screen sizes",
-        "⚡ Implementing UX best practices and design systems to maintain consistency and usability across applications",
+        "⚡ Create user-centric UI designs using Figma & Adobe XD",
+        "⚡ Conduct user research & usability testing for insights",
+        "⚡ Develop responsive & accessible designs for all devices",
+        "⚡ Implement UX best practices & design systems",
       ],
       softwareSkills: [
         {

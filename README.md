@@ -1,6 +1,6 @@
 # Portfolio
 
-A professional portfolio website showcasing my work as a Product Manager and Business Analyst, featuring AI-powered products, data science projects, and business solutions.
+A professional portfolio website showcasing my work as a Product Manager, featuring AI-powered products, data science projects, and business solutions.
 
 **Live Site:** [https://RakshitaJ-Neu.github.io](https://RakshitaJ-Neu.github.io)
 

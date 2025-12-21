@@ -89,28 +89,6 @@
       ]
     },
     {
-      "id": "R_kgDOJWL0-g5",
-      "name": "AI-Based Titanic Survival Prediction Model",
-      "createdAt": "2023-10-02T04:18:19Z",
-      "url": "https://github.com/RakshitaJ-Neu/titanic-survival-prediction",
-      "description": "Machine learning classification system implementing ensemble methods (Random Forest, XGBoost, Neural Networks) for survival prediction. Features advanced feature engineering, hyperparameter optimization, and model interpretability using SHAP values. Achieved 85%+ accuracy through sophisticated ML pipeline and cross-validation techniques.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "TensorFlow",
-          "iconifyClass": "logos-tensorflow"
-        },
-        {
-          "name": "Scikit-learn",
-          "iconifyClass": "simple-icons:scikitlearn"
-        }
-      ]
-    },
-    {
       "id": "R_kgDOJWL0-g6",
       "name": "AI-Powered Financial Forecasting Engine",
       "createdAt": "2024-11-15T04:18:19Z",
@@ -153,28 +131,7 @@
           "iconifyClass": "simple-icons:azuredevops"
         }
       ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "AI-Enhanced Portfolio Platform",
-      "createdAt": "2024-08-07T16:26:54Z",
-      "url": "https://github.com/RakshitaJ-Neu/rakshita-portfolio",
-      "description": "Intelligent portfolio platform featuring AI-powered content recommendations, dynamic skill matching, and ML-based visitor analytics. Implements natural language processing for automated content generation and personalized user experiences, showcasing the intersection of AI and modern web development.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "React",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "AI Integration",
-          "iconifyClass": "carbon:ai-results"
-        }
-      ]
     }
+    
   ]
 }

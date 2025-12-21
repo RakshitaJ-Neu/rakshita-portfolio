@@ -30,11 +30,14 @@ class Education extends Component {
                 <h3 className="heading-sub-text" style={{ color: theme.text }}>
                   Basic Qualification and Achievements{" "}
                 </h3>
-                <h3 style={{ color: "#84597e" }}>
+                <p
+                  className="heading-detail-text subTitle"
+                  style={{ color: theme.secondaryText }}
+                >
                   Mastered essential skills with a track record of excellence,
                   backed by distinguished degrees and industry-recognized
                   certifications.
-                </h3>
+                </p>
               </div>
             </div>
           </Fade>

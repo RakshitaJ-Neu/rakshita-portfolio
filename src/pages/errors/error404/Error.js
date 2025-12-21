@@ -21,7 +21,7 @@ export default class Error extends Component {
               className="main-button"
               to="/home"
               style={{
-                color: theme.body,
+                color: "#FFFFFF",
                 backgroundColor: theme.text,
                 border: `solid 1px ${theme.text}`,
                 display: "inline-flex",

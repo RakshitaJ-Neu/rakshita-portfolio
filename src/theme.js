@@ -195,4 +195,36 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
-export const chosenTheme = purpleTheme;
+// AI-Focused Tech Theme - Vibrant, Modern, and Elegant with Light Gradient Background
+export const aiTechTheme = {
+  body: "linear-gradient(135deg, #F8FAFC 0%, #F1F5F9 50%, #E0E7FF 100%)", // Light gradient background
+  text: "#1E293B", // Dark slate for text
+  expTxtColor: "#0F172A",
+  highlight: "#E9D5FF", // Light purple highlight for hover
+  dark: "#0F172A", // Deep navy for contrast
+  secondaryText: "#64748B", // Muted slate
+  imageHighlight: "#8B5CF6", // Vibrant purple
+  compImgHighlight: "#E2E8F0",
+  jacketColor: "#6366F1", // Indigo accent
+  headerColor: "#E0E7FF77",
+  splashBg: "#55198b",
+  // AI-specific colors
+  aiPrimary: "#8B5CF6", // Purple - AI/Tech primary
+  aiSecondary: "#06B6D4", // Cyan - AI secondary
+  aiAccent: "#F59E0B", // Amber - Energy/Innovation
+  aiGradientStart: "#6366F1", // Indigo
+  aiGradientEnd: "#EC4899", // Pink
+  cardBg: "#FFFFFF", // White card background
+  cardBorder: "#E2E8F0", // Light border
+  success: "#10B981", // Green
+  warning: "#F59E0B", // Amber
+  error: "#EF4444", // Red
+  neonGlow: "#8B5CF6", // Purple glow
+  particleColor: "#8B5CF6", // Purple particles
+  techBlue: "#3B82F6", // Tech blue
+  techPurple: "#A855F7", // Tech purple
+  techCyan: "#22D3EE", // Tech cyan
+  techPink: "#F472B6", // Tech pink
+};
+
+export const chosenTheme = aiTechTheme;

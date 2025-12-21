@@ -181,10 +181,17 @@ export default class EducationImg extends Component {
         <circle cx="627.39431" cy="482" r="6" fill="#4d8af0" opacity="0.5" />
         <circle cx="103.39431" cy="541" r="6" fill="#47e6b1" opacity="0.5" />
         <circle cx="411.39431" cy="6" r="6" fill="#f55f44" opacity="0.5" />
+        <defs>
+          <linearGradient id="capGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style={{stopColor: "#6366F1", stopOpacity: 1}} />
+            <stop offset="50%" style={{stopColor: "#8B5CF6", stopOpacity: 1}} />
+            <stop offset="100%" style={{stopColor: "#EC4899", stopOpacity: 1}} />
+          </linearGradient>
+        </defs>
         <path
           d="M407.19716,520.481l-24,36s8,37,185,36,191-36,191-36l-33-48-101-69Z"
           transform="translate(-202.30284 -162.98099)"
-          fill={theme.imageHighlight}
+          fill="url(#capGradient)"
         />
         <path
           d="M407.19716,520.481l-24,36s8,37,185,36,191-36,191-36l-33-48-101-69Z"
@@ -193,7 +200,7 @@ export default class EducationImg extends Component {
         />
         <polygon
           points="715.394 224 400.394 363 16.394 224 368.394 64 541.184 143.67 547.374 146.53 715.394 224"
-          fill={theme.imageHighlight}
+          fill="url(#capGradient)"
         />
         <polygon
           points="715.394 224 400.394 363 16.394 224 368.394 64 541.184 143.67 547.374 146.53 715.394 224"
@@ -206,7 +213,7 @@ export default class EducationImg extends Component {
         <path
           d="M411.19716,386.481l-28,170s201-65,376,0l-26-180S498.19716,347.481,411.19716,386.481Z"
           transform="translate(-202.30284 -162.98099)"
-          fill={theme.imageHighlight}
+          fill="url(#capGradient)"
         />
         <ellipse cx="553.39431" cy="272" rx="29" ry="20" fill="#f5f5f5" />
       </svg>
