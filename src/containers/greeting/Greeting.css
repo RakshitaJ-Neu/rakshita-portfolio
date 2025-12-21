@@ -1,22 +1,44 @@
 .greet-main {
   width: 90%;
-  padding: 20px 10px;
+  padding: 10px 10px;
   margin: 0px auto;
-  margin-top: 1rem;
+  margin-top: 0;
+  min-height: calc(100vh - 180px);
+  display: flex;
+  align-items: center;
 }
 
 .greeting-main {
   display: flex;
+  align-items: center;
+  width: 100%;
 }
 
 .greeting-main > * {
   flex: 1;
-  margin-bottom: 30px;
+  margin-bottom: 0;
+}
+
+.greeting-text-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 .button-greeting-div {
   display: flex;
   margin-top: 20px;
+}
+
+.portfolio-repo-btn-div {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+.portfolio-btn {
+  flex: 0 1 auto;
 }
 
 .greeting-text {
@@ -119,6 +141,13 @@
 @media (max-width: 768px) {
   .button-greeting-div {
     justify-content: space-around;
+  }
+  .portfolio-repo-btn-div {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .portfolio-btn {
+    width: 100%;
   }
   .greeting-text {
     font-size: 32px;

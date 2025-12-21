@@ -21,10 +21,11 @@ body {
 }
 
 .screen {
-  background-color: #55198b;
+  background: linear-gradient(135deg, #1a0933 0%, #55198b 40%, #430A58 70%, #2d0a47 100%);
+  background-size: 200% 200%;
   overflow: hidden;
   border-radius: 100%;
-  animation: grow 5.5s forwards;
+  animation: grow 5.5s forwards, gradientShift 3s ease infinite;
 }
 
 @keyframes grow {
@@ -47,6 +48,18 @@ body {
     transform: scale(0);
     transform-origin: 50% 50%;
     border-radius: 100%;
+  }
+}
+
+@keyframes gradientShift {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
   }
 }
 

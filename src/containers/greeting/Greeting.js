@@ -35,7 +35,14 @@ export default function Greeting(props) {
                   newTab={true}
                   href={greeting.resumeLink}
                   theme={theme}
-                  className="linkedin-connect-btn"
+                  className="portfolio-btn"
+                />
+                <Button
+                  text="🤖 AI Product Portfolio"
+                  newTab={false}
+                  href="/aiproducts"
+                  theme={theme}
+                  className="portfolio-btn"
                 />
               </div>
             </div>
