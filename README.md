@@ -2,7 +2,7 @@
 
 A professional portfolio website showcasing my work as a Product Manager, featuring AI-powered products, data science projects, and business solutions.
 
-**Live Site:** [https://rakshitajaiswal.netlify.app](https://RakshitaJ-Neu.github.io)
+**Live Site:** [https://RakshitaJ-Neu.github.io](https://rakshitajaiswal.netlify.app)
 
 ## About
 
