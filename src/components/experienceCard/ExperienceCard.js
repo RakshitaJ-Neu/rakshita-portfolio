@@ -47,11 +47,18 @@ class ExperienceCard extends Component {
 
                 </div>
               </div>
-              <div style={{ display: 'flex', justifyContent: 'flex-start', marginTop: 20 }}>
-                <div
-                  className="repo-description"
-                />
-                {experience["description"]}
+              <div className="experience-card-description">
+                {Array.isArray(experience["description"]) ? (
+                  <ul style={{ color: theme.text }}>
+                    {experience["description"].map((item, i) => (
+                      <li key={i} style={{ color: theme.text }}>
+                        {item}
+                      </li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p style={{ color: theme.text }}>{experience["description"]}</p>
+                )}
               </div>
 
             </div>

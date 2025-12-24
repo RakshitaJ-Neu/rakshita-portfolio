@@ -1,77 +1,11 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "AI-Powered AR Report Automation",
-      "createdAt": "2024-09-17T04:18:19Z",
-      "url": "https://drive.google.com/file/d/16Tv0yaIA_sg9YnnHjH896ZnwrfdVx7Cq/view?usp=sharing",
-      "description": "Intelligent automation system leveraging AI-driven data extraction and ML-based anomaly detection for AR reporting. Implemented NLP for document processing and predictive analytics to forecast payment patterns, reducing manual effort by 70% and achieving 95% accuracy through machine learning algorithms.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "AI/ML",
-          "iconifyClass": "carbon:machine-learning-model"
-        },
-        {
-          "name": "Microsoft PowerAutomate",
-          "iconifyClass": "simple-icons:powerautomate"
-        },
-        {
-          "name": "Advanced Excel",
-          "iconifyClass": "simple-icons:microsoftexcel"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJWL0-g2",
-      "name": "AI-Enhanced Tax Report Automation",
-      "createdAt": "2024-10-27T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1W1DCybT6KsEWgiEZbECq0sUmmvXXNwN1/view?usp=sharing",
-      "description": "Smart tax reporting system powered by AI algorithms for intelligent data classification and validation. Utilizes machine learning for pattern recognition in tax data, automated compliance checking, and predictive error detection, ensuring 100% accuracy while eliminating manual processes through cognitive automation.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "AI/ML",
-          "iconifyClass": "carbon:machine-learning-model"
-        },
-        {
-          "name": "Microsoft PowerAutomate",
-          "iconifyClass": "simple-icons:powerautomate"
-        },
-        {
-          "name": "Advanced Excel",
-          "iconifyClass": "simple-icons:microsoftexcel"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJWL0-g3",
-      "name": "AI-Driven Volume Estimates & Predictive Analytics",
-      "createdAt": "2024-12-11T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1HNq3_S5Xna1xxc7Rwfh55fDFrSR-YpTb/view?usp=sharing",
-      "description": "Advanced predictive analytics platform using AI/ML models for financial forecasting and variance analysis. Implements deep learning algorithms for pattern recognition, automated anomaly detection, and intelligent data consolidation from multiple sources (SAP, SharePoint, Excel), achieving 90% prediction accuracy with real-time insights.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "AI/ML",
-          "iconifyClass": "carbon:machine-learning-model"
-        },
-        {
-          "name": "PowerBI",
-          "iconifyClass": "simple-icons:powerbi"
-        },
-        {
-          "name": "Advanced SQL",
-          "iconifyClass": "simple-icons:mysql"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJWL0-g4",
-      "name": "Intelligent Claims Processing System",
-      "createdAt": "2024-04-07T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1XRTmo2CnNgTJopP6CSaQE_6Q90qGR46t/view",
-      "description": "AI-powered claims processing platform utilizing NLP for document analysis, computer vision for claim validation, and ML algorithms for fraud detection. Features intelligent routing, automated decision-making, and predictive resource allocation, reducing processing time by 30% while improving accuracy through continuous learning.",
+      "id": "R_kgDOFINSENSE01",
+      "name": "FinSense - AI Financial Decision Platform",
+      "createdAt": "2025-12-22T00:00:00Z",
+      "url": "https://github.com/rakshita-jaiswal/FinSense",
+      "description": "AI-powered financial decisioning platform that evaluates transactions, classifies risk-relevant signals, and feeds structured outputs into downstream workflows. Features intelligent bookkeeping assistance and financial query resolution using advanced NLP and machine learning models. Automates risk assessment, transaction categorization, and provides real-time financial insights for informed decision-making.",
       "isFork": false,
       "languages": [
         {
@@ -83,19 +17,120 @@
           "iconifyClass": "carbon:text-mining"
         },
         {
-          "name": "Tableau",
-          "iconifyClass": "simple-icons:tableau"
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Data Analytics",
+          "iconifyClass": "carbon:analytics"
         }
-      ]
+      ],
+      "aiFeatures": [
+        "AI-powered transaction evaluation and risk classification",
+        "NLP-based financial query resolution and bookkeeping assistance",
+        "Machine learning models for signal detection and pattern recognition",
+        "Automated risk scoring and anomaly detection",
+        "Intelligent workflow automation with structured data outputs",
+        "Real-time financial insights and predictive analytics"
+      ],
+      "productMetrics": {
+        "automation": "Automated transaction classification and risk assessment",
+        "intelligence": "AI-driven financial query answering system",
+        "integration": "Seamless downstream workflow integration",
+        "accuracy": "High-precision risk signal detection and categorization"
+      }
     },
     {
-      "id": "R_kgDOJWL0-g6",
-      "name": "AI-Powered Financial Forecasting Engine",
-      "createdAt": "2024-11-15T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1example",
-      "description": "Advanced time-series forecasting system using LSTM neural networks and ensemble ML models for financial predictions. Integrates real-time market data, sentiment analysis from news sources, and automated feature engineering to predict revenue trends, cash flow patterns, and budget variances with 92% accuracy.",
+      "id": "R_kgDOAIPRD01",
+      "name": "AIProductGPT - Create your AI PRD",
+      "createdAt": "2025-12-21T00:00:00Z",
+      "url": "https://github.com/rakshita-jaiswal/ai-product-gpt",
+      "description": "With simple prompts, AIProductGPT instantly crafts detailed AI-powered Product Requirements Documents (PRD) and mocks so that your team can hit the ground running. Leverages advanced generative AI and NLP to transform high-level product vision statements into comprehensive, structured documentation including user stories, technical specifications, success metrics, mockups, and implementation roadmaps. Streamlines product planning by automating the entire PRD creation process while maintaining professional quality.",
       "isFork": false,
       "languages": [
+        {
+          "name": "Generative AI",
+          "iconifyClass": "carbon:ai-results"
+        },
+        {
+          "name": "NLP",
+          "iconifyClass": "carbon:text-mining"
+        },
+        {
+          "name": "LLM",
+          "iconifyClass": "carbon:model"
+        },
+        {
+          "name": "Product Management",
+          "iconifyClass": "carbon:document"
+        }
+      ],
+      "aiFeatures": [
+        "Instant PRD generation from simple prompts and product vision",
+        "AI-powered mockup and wireframe creation",
+        "Automated user story generation with acceptance criteria",
+        "Intelligent technical specification and architecture recommendations",
+        "AI-driven success metrics and KPI suggestions",
+        "Automated roadmap and milestone planning with team-ready outputs"
+      ],
+      "productMetrics": {
+        "speed": "Instant PRD creation from simple prompts",
+        "completeness": "End-to-end documentation with PRDs and mockups",
+        "teamReady": "Production-ready outputs for immediate team execution",
+        "automation": "90% reduction in documentation time with AI-powered generation"
+      }
+    },
+    {
+      "id": "R_kgDOUNVEIL01",
+      "name": "UNVEIL - Anonymous Journalism Platform",
+      "createdAt": "2025-04-01T00:00:00Z",
+      "url": "https://drive.google.com/file/d/1example-unveil",
+      "description": "AI-powered decentralized journalism platform leveraging Bitcoin blockchain and Lightning Network for anonymous publishing. Implements NLP for content moderation, ML-based voting algorithms for quality assessment, and smart contract automation for dynamic prize pool distribution. Features Taproot identity management for privacy-preserving authentication and AI-driven fraud detection to ensure content integrity.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Blockchain",
+          "iconifyClass": "cryptocurrency:btc"
+        },
+        {
+          "name": "NLP/AI",
+          "iconifyClass": "carbon:text-mining"
+        },
+        {
+          "name": "React.js",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "logos-nodejs"
+        }
+      ],
+      "aiFeatures": [
+        "AI-powered content moderation and fake news detection",
+        "ML-based voting pattern analysis for quality ranking",
+        "NLP for sentiment analysis and topic categorization",
+        "Predictive analytics for prize pool optimization",
+        "Automated anomaly detection for fraudulent content"
+      ],
+      "productMetrics": {
+        "stakingModel": "Crypto staking ensures skin in the game",
+        "automation": "80% reduction in manual moderation",
+        "accuracy": "95% accuracy in content quality assessment",
+        "scalability": "Lightning Network enables micro-transactions at scale"
+      }
+    },
+    {
+      "id": "R_kgDOCHATBOT02",
+      "name": "AI Customer Service Chatbot",
+      "createdAt": "2025-03-15T00:00:00Z",
+      "url": "https://drive.google.com/file/d/1example-chatbot",
+      "description": "Enterprise-grade conversational AI chatbot with 80% automated query resolution. Utilizes advanced NLP for intent recognition, deep learning models for context understanding, and reinforcement learning for continuous improvement. Features seamless CRM integration, multi-language support, and intelligent escalation routing. Implements GDPR-compliant data handling with real-time sentiment analysis and predictive customer behavior modeling.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "NLP/AI",
+          "iconifyClass": "carbon:text-mining"
+        },
         {
           "name": "Deep Learning",
           "iconifyClass": "carbon:neural-network"
@@ -105,33 +140,64 @@
           "iconifyClass": "logos-python"
         },
         {
-          "name": "PyTorch",
-          "iconifyClass": "logos-pytorch"
+          "name": "TensorFlow",
+          "iconifyClass": "logos-tensorflow"
         }
-      ]
+      ],
+      "aiFeatures": [
+        "Advanced NLP with transformer models for intent classification",
+        "Context-aware dialogue management using LSTM networks",
+        "Real-time sentiment analysis for customer satisfaction tracking",
+        "ML-based escalation prediction and intelligent routing",
+        "Continuous learning through reinforcement learning feedback loops",
+        "Multi-language support with neural machine translation"
+      ],
+      "productMetrics": {
+        "automation": "80% automated query resolution upon launch",
+        "responseTime": "Sub-second response time with 95% accuracy",
+        "integration": "Seamless CRM integration with real-time data sync",
+        "compliance": "GDPR-compliant with end-to-end encryption"
+      }
     },
     {
-      "id": "R_kgDOJWL0-g7",
-      "name": "Intelligent Business Process Mining Platform",
-      "createdAt": "2024-08-20T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1example2",
-      "description": "AI-driven process mining solution using machine learning to analyze business workflows, identify bottlenecks, and recommend optimizations. Features automated process discovery, conformance checking with AI, and predictive process monitoring that reduces operational inefficiencies by 40% through intelligent insights.",
+      "id": "R_kgDOHOMIE01",
+      "name": "Homie - AI-Powered Household Management App",
+      "createdAt": "2025-12-20T00:00:00Z",
+      "url": "#",
+      "description": "Mobile application designed to simplify and automate household management for students and roommates. Features AI-powered task automation, intelligent calendar integration, Splitwise-style expense tracking, and smart reminders. Homie ensures fair task distribution, reduces conflicts, and keeps everything organized in one centralized platform. Built with Figma for high-fidelity prototypes and UX design, focusing on seamless user experience for young professionals and students in shared living spaces.",
       "isFork": false,
       "languages": [
         {
-          "name": "AI/ML",
+          "name": "UX Design",
+          "iconifyClass": "carbon:design"
+        },
+        {
+          "name": "Figma",
+          "iconifyClass": "logos:figma"
+        },
+        {
+          "name": "Mobile App",
+          "iconifyClass": "carbon:mobile"
+        },
+        {
+          "name": "AI/Automation",
           "iconifyClass": "carbon:machine-learning-model"
-        },
-        {
-          "name": "Process Mining",
-          "iconifyClass": "carbon:flow"
-        },
-        {
-          "name": "Azure DevOps",
-          "iconifyClass": "simple-icons:azuredevops"
         }
-      ]
+      ],
+      "aiFeatures": [
+        "AI-powered automated task assignment and rotation system",
+        "Smart calendar syncing with Google Calendar & Apple Calendar",
+        "Intelligent expense splitting and tracking (Splitwise integration)",
+        "Automated reminders and notifications for tasks and payments",
+        "ML-based conflict resolution through fair task distribution",
+        "Predictive scheduling to prevent task overlap and optimize household workflow"
+      ],
+      "productMetrics": {
+        "purpose": "Simplify shared living by automating household tasks and expense management",
+        "vision": "Stress-free, well-organized home with fair responsibility distribution",
+        "impact": "Fosters accountability, transparency, and efficiency in co-living",
+        "userExperience": "Minimalist, intuitive UI designed for students and young professionals"
+      }
     }
-    
   ]
 }

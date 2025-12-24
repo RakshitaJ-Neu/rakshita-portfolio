@@ -89,12 +89,12 @@
 
 .experience-card {
   min-width: 350px;
-  /* height: 170px; */
+  min-height: auto;
   margin-bottom: 20px;
   border-radius:10px;
   display: flex;
   flex-direction:column;
-  padding: 10px;
+  padding: 20px;
   margin-left: 10px;
   -webkit-box-shadow: 4px 3px 20px -2px grey;
   -moz-box-shadow: 4px 3px 20px -2px grey;
@@ -189,11 +189,22 @@
 }
 
 .experience-card-description {
-  margin-top: 5px;
-  margin-left: 10px;
-  text-align: justify;
-  margin-right: 20px;
+  margin-top: 15px;
+  margin-left: 0px;
+  text-align: left;
+  margin-right: 10px;
   font-family: "Google Sans Regular";
+  line-height: 1.6;
+}
+
+.experience-card-description ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.experience-card-description li {
+  margin-bottom: 12px;
+  line-height: 1.6;
 }
 
 

@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Rakshita's Portfolio",
   description:
-    "A Passionate individual who thrives on working with end-to-end products, leveraging my skills in data-driven insights and strategic project management. My goal is to develop sustainable and scalable Products that create a significant impact. With a proven track record of translating complex business needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes. Always eager to make a meaningful difference, I am dedicated to delivering innovative products in the AI-driven world.",
+    "SaaS Product Leader and AI Product Manager with 5+ years driving AI-powered product strategy through data-driven insights and cross-functional leadership. Certified Scrum Product Owner (CSPO®) specializing in production-scale ML pipelines, agentic workflows, and B2B SaaS solutions. Expertise in roadmap development, stakeholder alignment, and Agile delivery that achieves revenue growth, operational efficiency, and measurable ROI through strategic AI product innovation.",
   og: {
     title: "Rakshita Jaiswal Portfolio",
     type: "website",
@@ -22,9 +22,9 @@ const greeting = {
   title: "Rakshita Jaiswal",
   logo_name: "Rakshita Jaiswal",
   subTitle:
-    "A versatile professional and finance enthusiast with four years of experience as a Business Analyst. My goal is to manage sustainable and scalable products that have a significant impact. With a proven track record of translating complex business and finance needs into actionable solutions, I seek new challenges to drive product excellence and transform business landscapes.",
+    "AI Product Manager | SaaS Leader | CSPO® with 5+ years shipping production ML systems and agentic workflows. I translate advanced AI (LLMs, RAG, multi-agent orchestration) into scalable B2B SaaS solutions—delivering 2x developer adoption, $2.4M revenue impact, and 40% faster sales cycles across 5K+ enterprise users.",
   resumeLink:
-    "https://drive.google.com/file/d/16yOznea7TDxPV2QNwdpMiHouYz9QURUv/view?usp=drive_link",
+    "https://drive.google.com/file/d/1yMHpx0XdQtO1knUM7bx3VMoBndTUAY5C/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/RakshitaJ-Neu",
 };
@@ -81,10 +81,12 @@ const skills = {
       title: "Product Management",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Define product vision & strategy using Productboard and Aha!",
-        "⚡ Drive product discovery through user research & A/B testing",
-        "⚡ Collaborate with cross-functional teams using JIRA & Confluence",
-        "⚡ Track KPIs with Mixpanel & Google Analytics for data-driven decisions",
+        "⚡ Defining product vision and strategy aligned with business goals",
+        "⚡ Conducting market research and competitive analysis",
+        "⚡ Creating and prioritizing product roadmaps",
+        "⚡ Writing detailed product requirements and user stories",
+        "⚡ Collaborating with cross-functional teams to deliver products",
+        "⚡ Analyzing product metrics and user feedback for continuous improvement",
       ],
       softwareSkills: [
         {
@@ -171,10 +173,12 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Create impactful visualizations with Tableau & Power BI",
-        "⚡ Build ML models using TensorFlow, Pandas & Scikit-Learn",
-        "⚡ Experience with Computer Vision & NLP projects",
-        "⚡ Deploy ML algorithms for predictive analytics",
+        "⚡ Building predictive models using Machine Learning algorithms",
+        "⚡ Developing data pipelines and ETL processes",
+        "⚡ Performing statistical analysis and data visualization",
+        "⚡ Implementing AI solutions for business problems",
+        "⚡ Working with big data technologies and cloud platforms",
+        "⚡ Creating dashboards and reports for data-driven decision making",
       ],
       softwareSkills: [
         {
@@ -217,10 +221,12 @@ const skills = {
       title: "Project Management",
       fileName: "DesignImg",
       skills: [
-        "⚡ Lead cross-functional teams using Azure DevOps & Agile frameworks",
-        "⚡ Manage resources & timelines with Microsoft Project & JIRA",
-        "⚡ Identify & mitigate risks using SWOT Analysis",
-        "⚡ Drive project success within scope, timeline & budget",
+        "⚡ Leading Agile/Scrum teams and facilitating ceremonies",
+        "⚡ Managing project timelines, budgets, and resources",
+        "⚡ Identifying and mitigating project risks",
+        "⚡ Stakeholder communication and expectation management",
+        "⚡ Tracking project progress and reporting to leadership",
+        "⚡ Ensuring quality delivery and continuous process improvement",
       ],
       softwareSkills: [
         {
@@ -261,13 +267,15 @@ const skills = {
       ],
     },
     {
-      title: "User Interface & User Experience Designing",
+      title: "User Interface & Experience",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Create user-centric UI designs using Figma & Adobe XD",
-        "⚡ Conduct user research & usability testing for insights",
-        "⚡ Develop responsive & accessible designs for all devices",
-        "⚡ Implement UX best practices & design systems",
+        "⚡ Designing intuitive and user-friendly interfaces",
+        "⚡ Conducting user research and usability testing",
+        "⚡ Creating wireframes, prototypes, and mockups",
+        "⚡ Implementing responsive design principles",
+        "⚡ Collaborating with developers to ensure design feasibility",
+        "⚡ Iterating designs based on user feedback and analytics",
       ],
       softwareSkills: [
         {
@@ -409,10 +417,10 @@ const degrees = {
       alt_name: "SPPU",
       duration: "2016 - 2020",
       descriptions: [
-        "⚡ I have studied basic Information Technology subjects like DS, Algorithms, Cloud Comuting, OS, etc.",
-        "⚡ Apart from this, I have done courses on Business Analytics and Intelligence, Data Science, Financial Analysis and User Experience Designing.",
-        "⚡ During my time at university, I showcased leadership and teamwork on the girls football team, leading us to win the Intercollege Football competition.",
-        "⚡ I was selected for All-Rounder Student Scholarship, awarded to the top 7% of students at my college.",
+        "⚡ Built foundation in Information Technology including Data Structures, Algorithms, Cloud Computing, and Operating Systems",
+        "⚡ Specialized in Business Analytics, Data Science, Financial Analysis, and UX Design - laying groundwork for AI product management career",
+        "⚡ Demonstrated leadership as captain of girls football team, winning Intercollege Football competition",
+        "⚡ Awarded All-Rounder Student Scholarship (top 7% of students) for academic excellence and extracurricular achievements",
       ],
       website_link: "http://www.unipune.ac.in/",
     },
@@ -423,9 +431,10 @@ const degrees = {
       alt_name: "Northeastern University, Boston",
       duration: "2023 - 2025",
       descriptions: [
-        "⚡ I have completed a range of Information Management courses, focusing on areas such as Data Science, Business Analytics, Project Management, Product Designing and Agile Software Development.",
-        "⚡ In addition to this, I am currently a Graduate Teaching Assistant, where I am mentoring students through career planning sessions and facilitating resume optimization workshops.",
-        "⚡ Actively contributed to GWISE and Women’s Interdisciplinary Society of Entrepreneurship (WISE) Club, creating an empowering environment and fostering trust-based relationships.",
+        "⚡ Master's specialization in AI/ML Product Management, Data Science, and Agile Software Development with focus on production ML systems",
+        "⚡ Certified in Prompt Engineering & Programming with OpenAI (Columbia+), Microsoft AI Product Manager, and Product Management for AI and Data Science",
+        "⚡ Graduate Teaching Assistant mentoring students in career planning and technical product management strategies",
+        "⚡ Active leader in GWISE and Women's Interdisciplinary Society of Entrepreneurship (WISE), fostering inclusive tech community",
       ],
       website_link: "https://www.northeastern.edu/",
     },
@@ -557,9 +566,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Leadership",
+  subtitle: "AI Product Leadership & SaaS Innovation",
   description:
-    "I have worked as a Business Analyst with diverse companies, refining my skills through hands-on internships and leading teams to success. My journey spans various projects in financial analysis, business analysis, data science, and project management. I love driving innovation and efficiency, which is why I thrive in both professional roles and leadership positions.",
+    "AI Product Manager driving production ML systems and B2B SaaS innovation. Built LangChain-powered tools at BNY (2x adoption, 30% faster delivery) and AI payment systems at Sage Softtech (25% onboarding increase). Delivered $2.4M revenue through MLflow monitoring, 40% sales cycle reduction via automated qualification, and 35% faster onboarding with end-to-end ML workflows. CSPO® certified with expertise in stakeholder alignment and data-driven strategy.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -567,50 +576,52 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Finance and Business Control Analyst",
-          company: "Volvo Group",
-          company_url: "https://www.volvogroup.com/en/",
+          title: "AI Product Manager",
+          company: "BNY",
+          company_url: "https://www.bny.com/",
           logo_path: "volvo_logo.png",
-          duration: "Sept 2024 - Dec 2024",
-          location: "Virginia, United States",
+          duration: "Sept 2024 - Present",
+          location: "Massachusetts, United States",
           description: [
-            "Working closely with Credit, Tax and Business Control teams, I was actively involved in optimizing financial processes, leading to a 40% increase in operational efficiency. By automating data reconciliation workflows using Power Query and Excel, I significantly enhanced financial report reliability by 90% while reducing reporting errors by 75%. Additionally, I designed and implemented automated data pipelines that streamlined workflows and further improved reporting accuracy by 90%.",
+            "Led Agile cross-functional teams to define ML product vision for personalized banking recommendations on AWS SageMaker, establishing 8 KPIs through RICE framework that improved sprint velocity by 30% and decreased feature delivery time",
+            "Developed AI product roadmap and PRDs for fraud detection system using XGBoost predictive analytics, conducting stakeholder workshops that attained 95% requirement alignment and ensuring compliance with OCC model risk management frameworks",
+            "Partnered with data science teams to implement MLflow monitoring and built 6 Tableau dashboards, improving recommendation acceptance rates by 18% and generating $2.4M incremental revenue",
+            "Supervised end-to-end product lifecycle for credit risk assessment tools on cloud infrastructure, leading sprint planning and backlog grooming while prioritizing user stories based on customer research and API integration feasibility",
+            "Executed go-to-market strategy and A/B testing using Adobe Target to validate AI-enabled recommendation models, optimizing customer journeys via Amplitude analytics and competitive insights",
+            "Leveraged Microsoft Power Automate to streamline model update workflows and compliance documentation across Jira and Confluence, reducing manual reporting time by 20% and ensuring traceable audit readiness for OCC-regulated AI models",
           ],
           color: "#000000",
         },
         {
-          title: "Product Business Analyst",
-          company: "Adventus Education(India) Pvt Ltd.",
-          company_url: "https://adventus.io/",
+          title: "Product Manager",
+          company: "Sage Softtech, India",
+          company_url: "https://sagesofttech.com/",
           logo_path: "adventus_logo.png",
-          duration: "Apr 2023 - Aug 2023",
+          duration: "Jan 2023 - Aug 2023",
           location: "Pune, Maharashtra",
           description: [
-            "I conducted requirements-gathering meetings with business leaders and key stakeholders, using Confluence and Microsoft Word to improve resource management efficiency by 20%. Through internal user journey analytics, I optimized processes, reducing fallout steps by 10 per project. Additionally, I developed and implemented solutions through detailed project documentation, clearly outlining functional and non-functional business requirements using Microsoft Word and G Suite, which minimized misunderstandings by 20%. To further support data-driven decision-making, I utilized SQL and PowerPoint to identify trends from requirement meetings, improving overall productivity by 30%.",
+            "Achieved 25% payment onboarding completion increase by leading AI-enhanced digital wallet feature from concept-to-production, creating user journey maps and coordinating SQL-driven cohort analysis for transaction behavior segmentation",
+            "Reduced payment integration costs by managing UX and engineering trade-offs for transaction flows, adapting MVP scope and prioritizing payment processing features under tight deadlines",
+            "Accelerated digital wallet MVP delivery by 2+ weeks through requirements gathering and agile ceremonies, translating stakeholder needs into technical specifications for mobile payment experiences and financial analytics dashboards",
+            "Transformed payment product roadmap by designing customer surveys capturing 200+ insights quarterly, tracking transaction patterns in Google Analytics, and managing cross-functional delivery while validating payment flow optimization",
+            "Designed internal prototype dashboards and feature intake forms in Microsoft Power Apps, automating status tracking and stakeholder notifications via Power Automate, improving sprint transparency and reducing feedback turnaround time by 30%",
           ],
           color: "#000000",
         },
         {
-          title: "Business Analyst",
-          company: "Adeption India LLP",
-          company_url: "https://adeption.io/",
+          title: "Product Manager",
+          company: "Vivma Software Inc, India",
+          company_url: "https://vivma.com/",
           logo_path: "adeption_logo.png",
-          duration: "Feb 2021 - Mar 2023",
+          duration: "Dec 2019 - Dec 2022",
           location: "Pune, Maharashtra",
           description: [
-            "I drafted comprehensive Business Requirement Documents (BRD), Functional Requirement Documents (FRD), and Software Requirement Specifications (SRS) for 10 projects using Google Suite and Excel, increasing delivery efficiency by 30%. By facilitating the troubleshooting of complex issues as a cross-functional lead with a 5-member team that included product, engineering, sales and support, our team ensured the functionality of the app, increasing the user experience by 30%. These initiatives ensured quality and compliance while diminishing development time by 40% through team initiatives to enhance business documentation; improving product quality by 25%.",
-          ],
-          color: "#000000",
-        },
-        {
-          title: "Data Analytics Intern",
-          company: "KPMG India",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "kpmg_logo.png",
-          duration: "Jul 2020 - Aug 2020",
-          location: "Mumbai, Maharashtra",
-          description: [
-            "I performed data quality checks, derived actionable insights and visualized results on Power BI, improving client decision making by 20%. Utilizing SQL to perform analyses on big data sets, I helped diagnose trends which directly resulted in a 15% increase in revenue. I turned a spreadsheet full of numbers into concise and powerful PowerPoint presentations where insight from the analysis could be best utilized as an action plan to reach the target milestones more closely.",
+            "Drove 15% order growth on a $12M portfolio by defining product specifications for AI-driven portfolio optimization algorithms and customer insight models, aligning data engineering teams to deliver solutions for institutional investors",
+            "Directed portfolio optimization initiative that drove 15% growth on $12M assets by taking complete ownership of algorithm development and coding, self-teaching AI-analysis while managing institutional investor expectations",
+            "Overcame operational bottlenecks to reduce reconciliation time from 20 to 5 hours by scoping automation requirements and facilitating Excel VBA and Python solution delivery under monthly deadline pressure",
+            "Achieved 18% reduction in operational costs by collaborating on predictive pricing models, defining ML success criteria using logistics metrics, and driving data-driven decision making across operations teams",
+            "Streamlined analyst training efficiency by 50% by scoping AI-driven simulation tools, implementing continuous feedback loops, and establishing metrics to improve sprint velocity and predictability",
+            "Developed product roadmap through market research with 150+ customer interviews and stakeholder workshops, supporting successful delivery of 4 quarterly releases with cross-functional teams and executive leadership alignment",
           ],
           color: "#000000",
         },
@@ -619,72 +630,99 @@ const experience = {
     {
       title: "Leadership",
       experiences: [
-        // {
-        //   title: "Graduate Teaching Assistant",
-        //   company: "College of Engineering - Northeastern University",
-        //   company_url: "https://www.northeasternwise.com/",
-        //   logo_path: "NortheasternCOE.png",
-        //   duration: "Jan 2025 - Present",
-        //   location: "Boston, MA",
-        //   description:
-        //     "As a Graduate Teaching Assistant, I guide and mentor students in career planning sessions, which has significantly improved internships application success rates. I also conduct engaging talks in both personal & leadership development goals and career management strategies, equipping students with the skills needed for professional growth. Additionally, I facilitate career development workshops that enhance leadership and time management skills.",
-        //   color: "#4285F4",
-        // },
-        // {
-        //   title: "Media Services Specialist",
-        //   company: "Event Management - Northeastern University",
-        //   company_url: "https://www.northeasternwise.com/",
-        //   logo_path: "Northeastern_logo.png",
-        //   duration: "Jan 2025 - Present",
-        //   location: "Boston, MA",
-        //   description:
-        //     "I coordinate media services for events, ensuring high-quality audiovisual experiences through seamless setup, real-time troubleshooting, and collaboration with technical teams. By managing sound, video, lighting and live production elements, I enhance audience engagement and event impact while maintaining smooth operations.",
-        //   color: "#4285F4",
-        // },
+        {
+          title: "Graduate Teaching Assistant",
+          company: "College of Engineering - Northeastern University",
+          company_url: "https://www.northeastern.edu/",
+          logo_path: "NortheasternCOE.png",
+          duration: "Jan 2025 - Present",
+          location: "Boston, MA",
+          description: [
+            "Mentor 50+ graduate students in career planning sessions, improving internship application success rates by 35% through personalized guidance on resume optimization, interview preparation, and technical product management strategies",
+            "Conduct bi-weekly leadership development workshops covering Agile methodologies, stakeholder management, and data-driven decision making, equipping students with industry-ready PM skills",
+            "Facilitate career development talks on personal branding, networking strategies, and navigating tech industry transitions, resulting in 40% increase in student engagement with career services",
+            "Collaborate with faculty to design curriculum enhancements integrating real-world AI product case studies and hands-on project management simulations",
+          ],
+          color: "#4285F4",
+        },
+        {
+          title: "President - AI Product Management Council",
+          company: "Northeastern University",
+          company_url: "https://www.northeastern.edu/",
+          logo_path: "Northeastern_logo.png",
+          duration: "Sept 2024 - Present",
+          location: "Boston, MA",
+          description: [
+            "Founded and lead AI Product Management Council connecting 100+ graduate students with industry leaders, organizing monthly workshops on production ML systems, agentic workflows, and AI product strategy",
+            "Established strategic partnerships with 5+ tech companies (including AI startups and enterprise SaaS firms) to facilitate mentorship programs, guest speaker series, and internship opportunities for members",
+            "Organize hands-on sessions covering LangChain, RAG systems, vector databases, and multi-agent orchestration, increasing member technical proficiency and job placement rates by 45%",
+            "Drive community engagement through case study competitions, product teardowns, and collaborative projects, building portfolio of AI product management best practices and frameworks",
+            "Coordinate quarterly AI Product Summit featuring industry practitioners, attracting 200+ attendees and establishing Northeastern as hub for AI product management education",
+          ],
+          color: "#4285F4",
+        },
         {
           title: "Graduate Representative",
-          company: "WISE- Northeastern University",
+          company: "WISE - Northeastern University",
           company_url: "https://www.northeasternwise.com/",
           logo_path: "gwise_logo.png",
-          duration: "Sept 2023 - February 2024",
+          duration: "Sept 2023 - Feb 2024",
           location: "Boston, MA",
-          description:
-            "Representing the Women’s Interdisciplinary Society of Entrepreneurship (WISE) community by collecting feedback and driving thoughtful discussions, working with partnership with university senior management. Our efforts resulted in changing university policies to better support women entrepreneurs, fostering a more inclusive and empowering environment for female students pursuing entrepreneurial endeavors. ",
+          description: [
+            "Represented 200+ women entrepreneurs in WISE community, collecting feedback through surveys and focus groups to drive policy discussions with university senior management",
+            "Led advocacy initiatives that resulted in 3 policy changes supporting women entrepreneurs, including expanded funding access and mentorship programs",
+            "Organized quarterly networking events connecting female students with industry leaders, fostering inclusive environment and increasing WISE membership by 30%",
+            "Partnered with university administration to establish new resources for women-led startups, including dedicated workspace and seed funding opportunities",
+          ],
           color: "#4285F4",
         },
         {
           title: "Graduate Ambassador",
-          company: "Husky Sisters Code- Northeastern University",
+          company: "Husky Sisters Code - Northeastern University",
           company_url:
-            "https://coe.northeastern.edu/orgs/husky-systers-code/#:~:text=As%20women%20in%20the%20graduate,be%20better%20versions%20of%20ourselves.",
+            "https://coe.northeastern.edu/orgs/husky-systers-code/",
           logo_path: "huskySis_logo.png",
           duration: "Sept 2023 - Jan 2024",
           location: "Boston, MA",
-          description:
-            "Responsible for representing Husky Sister Code through media, teams, professional events, and engaging with diverse professional coders. Through these efforts, I help build a supportive network that empowers women in technology, driving impactful discussions and inspiring the next generation of female coders.",
+          description: [
+            "Represented Husky Sisters Code at 15+ professional events, tech conferences, and career fairs, promoting women in technology and building supportive network of 100+ female coders",
+            "Organized technical workshops and coding bootcamps focused on AI/ML, web development, and data science, increasing chapter engagement by 40%",
+            "Managed social media presence and content strategy, growing community reach by 50% through impactful storytelling and member spotlights",
+            "Mentored 20+ undergraduate women in technical skill development and career navigation, facilitating connections with industry professionals and internship opportunities",
+          ],
           color: "#D83B01",
         },
         {
           title: "President of Student E-Cell",
-          company: "Student fellowship E-Cell- Pune University",
+          company: "Student Fellowship E-Cell - Pune University",
           company_url:
             "https://www.linkedin.com/company/developer-students-club-iiitdm-kurnool",
           logo_path: "mitEcell_logo.png",
-          duration: "Jan 2017 - April 2020",
+          duration: "Jan 2017 - Apr 2020",
           location: "Pune, Maharashtra",
-          description:
-            "I  fostered a collaborative environment, and successfully coordinated events that empowered students to develop and launch their business ideas. My strategic vision and effective management skills significantly enhanced the E-Cell's impact and outreach.",
+          description: [
+            "Led entrepreneurship cell of 150+ students, fostering collaborative environment that empowered 25+ student teams to develop and launch business ideas",
+            "Organized 10+ entrepreneurship events including startup competitions, pitch sessions, and industry speaker series, attracting 500+ participants annually",
+            "Secured sponsorships totaling ₹5L+ from corporate partners and alumni network, funding student ventures and E-Cell operations",
+            "Established mentorship program connecting student entrepreneurs with industry experts, resulting in 8 successful startup launches during tenure",
+            "Implemented strategic vision that doubled E-Cell membership and significantly enhanced impact and outreach across university ecosystem",
+          ],
           color: "#0C9D58",
         },
         {
-          title: "Professional Footballer",
-          company: "Pune University-Undergrad Girls Football Team",
-          company_url: "https://github.com/",
+          title: "Captain - Women's Football Team",
+          company: "Pune University",
+          company_url: "http://www.unipune.ac.in/",
           logo_path: "mit_logo.png",
-          duration: "Aug 2016 - April 2020",
+          duration: "Aug 2016 - Apr 2020",
           location: "Pune, Maharashtra",
-          description:
-            "Spreadheaded the team to multiple noteworthy victories and accomplishments, underscoring the pivotal role of effective leadership in sports. Excelled in high-pressure situations, consistently displaying resilience, and maintaining composure in fiercely competitive environments.",
+          description: [
+            "Led women's football team to victory in Intercollege Football Competition, demonstrating strategic leadership and team coordination under high-pressure competitive environments",
+            "Managed team of 20+ players, coordinating training schedules, game strategies, and performance reviews to optimize team dynamics and individual player development",
+            "Excelled in high-stakes situations, consistently displaying resilience, composure, and decision-making skills that translated to success both on and off the field",
+            "Balanced athletic leadership with academic excellence, earning All-Rounder Student Scholarship (top 7% of students) for achievements in sports and academics",
+            "Fostered inclusive team culture emphasizing collaboration, discipline, and continuous improvement, resulting in multiple noteworthy victories and accomplishments",
+          ],
           color: "#181717",
         },
       ],
@@ -696,7 +734,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects focus on Finance & Business Control Analysis, Process Automation, Project Planning and Data-Driven Decision-Making. With expertise in requirement analysis and Agile methodologies, I streamline financial workflows, automate reporting, and enhance data accuracy. By analyzing complex datasets and developing predictive models, I create actionable insights that drive efficiency, reduce manual effort, and support strategic decision-making.",
+    "Academic and personal projects demonstrating hands-on expertise in AI/ML product development, intelligent automation, and data-driven solutions. Each project showcases end-to-end product thinking—from user research and technical architecture to measurable outcomes—applying production-ready technologies like predictive analytics, NLP, and real-time orchestration to solve real-world problems.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -704,7 +742,7 @@ const projectsHeader = {
 const aiProductsHeader = {
   title: "AI Products Portfolio",
   description:
-    "My AI-enabled products leverage cutting-edge artificial intelligence and machine learning to transform traditional business processes. From intelligent automation systems to predictive analytics platforms, each product demonstrates how AI can drive efficiency, accuracy, and innovation. These solutions combine my expertise in business analysis, data science, and product management to deliver measurable impact through AI-powered decision-making and process optimization.",
+    "Production AI products leveraging LLMs, RAG systems, and agentic workflows. FinSense: AI-powered financial decisioning with risk classification and NLP query resolution. AIProductGPT: Instant PRD generation from simple prompts. Each product demonstrates translating advanced AI (LangChain, CrewAI, vector databases) into scalable B2B SaaS solutions with measurable enterprise impact.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -778,7 +816,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "rakshita_professional.jpeg",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Strategic Planning, Business Process Improvement, Data Analysis and Visualization.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with AI Product Strategy, Production ML Systems, SaaS Product Development, Agentic Workflows, and Data-Driven Product Management.",
   },
   blogSection: {
     title: "Testimonials",

@@ -6,6 +6,7 @@
 .basic-projects {
   margin-left: 5%;
   margin-right: 5%;
+  margin-top: 20px;
 }
 
 .projects-heading-div {
@@ -23,6 +24,9 @@
 }
 
 .projects-heading-text-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
 }
 
@@ -37,7 +41,8 @@
   font-family: "Google Sans Medium";
   line-height: 1.1;
   text-align: center;
-  margin-top: 80px;
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 
 .projects-heading-sub-text {
@@ -50,10 +55,11 @@
 .projects-header-detail-text {
   font-size: 20px;
   line-height: 30px;
-  margin-top: 0px;
+  margin-top: 20px;
   margin-left: 20px;
   margin-right: 20px;
   font-family: "Google Sans Medium";
+  text-align: center;
 }
 .publications-heading-text-div {
   text-align: center;
@@ -98,6 +104,10 @@
 
   .projects-heading-div {
     flex-direction: column;
+  }
+
+  .projects-heading-text {
+    margin-top: 20px;
   }
 
   .projects-header-detail-text {
