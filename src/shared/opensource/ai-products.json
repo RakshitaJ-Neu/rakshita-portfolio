@@ -4,7 +4,7 @@
       "id": "R_kgDOFINSENSE01",
       "name": "FinSense - AI Financial Decision Platform",
       "createdAt": "2025-12-22T00:00:00Z",
-      "url": "https://github.com/rakshita-jaiswal/FinSense",
+      "url": "https://rakshita-jaiswal.github.io/FinSense",
       "description": "AI-powered financial decisioning platform that evaluates transactions, classifies risk-relevant signals, and feeds structured outputs into downstream workflows. Features intelligent bookkeeping assistance and financial query resolution using advanced NLP and machine learning models. Automates risk assessment, transaction categorization, and provides real-time financial insights for informed decision-making.",
       "isFork": false,
       "languages": [
@@ -42,10 +42,10 @@
     },
     {
       "id": "R_kgDOAIPRD01",
-      "name": "AIProductGPT - Create your AI PRD",
+      "name": "PRD.ai - Create your AI PRD",
       "createdAt": "2025-12-21T00:00:00Z",
-      "url": "https://github.com/rakshita-jaiswal/ai-product-gpt",
-      "description": "With simple prompts, AIProductGPT instantly crafts detailed AI-powered Product Requirements Documents (PRD) and mocks so that your team can hit the ground running. Leverages advanced generative AI and NLP to transform high-level product vision statements into comprehensive, structured documentation including user stories, technical specifications, success metrics, mockups, and implementation roadmaps. Streamlines product planning by automating the entire PRD creation process while maintaining professional quality.",
+      "url": "https://rakshita-jaiswal.github.io/ai-product-gpt",
+      "description": "With simple prompts, PRD.ai instantly crafts detailed AI-powered Product Requirements Documents (PRD) and mocks so that your team can hit the ground running. Leverages advanced generative AI and NLP to transform high-level product vision statements into comprehensive, structured documentation including user stories, technical specifications, success metrics, mockups, and implementation roadmaps. Streamlines product planning by automating the entire PRD creation process while maintaining professional quality.",
       "isFork": false,
       "languages": [
         {
