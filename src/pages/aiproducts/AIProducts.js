@@ -63,7 +63,7 @@ class AIProducts extends Component {
           })}
         </div>
         <Button
-          text={"More AI Projects"}
+          text={"More AI Products"}
           className="project-button"
           href="https://github.com/rakshita-jaiswal"
           newTab={true}

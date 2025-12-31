@@ -888,7 +888,7 @@ const contactPageData = {
     postalCode: "02135",
     streetAddress: "Strathmore Road",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/WjDEo1NwwoFg53gT9",
+    location_map_link: "https://www.google.com/maps/search/Strathmore+Road,+Brighton,+MA,+02135",
   },
   phoneSection: {
     title: "",
