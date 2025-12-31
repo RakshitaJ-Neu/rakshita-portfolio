@@ -444,6 +444,69 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "Certified Scrum Product Owner®",
+      subtitle: "- Scrum Alliance",
+      logo_path: "cspo_logo.png",
+      certificate_link:
+        "https://certification.scrumalliance.org/accounts/1767962-rakshita-jaiswal/certifications/2096895-cspo",
+      alt_name: "Scrum Alliance",
+      color_code: "#2A73CC",
+    },
+    {
+      title: "Microsoft AI Product Manager",
+      subtitle: "- Microsoft",
+      logo_path: "microsoft_logo.png",
+      certificate_link:
+        "https://www.coursera.org/account/accomplishments/professional-cert/certificate/1Q158QXPGS5R",
+      alt_name: "Coursera",
+      color_code: "#0072C6",
+    },
+    {
+      title: "AI Product Management 101",
+      subtitle: "- Maven",
+      logo_path: "maven_logo.png",
+      certificate_link:
+        "https://maven.com/wrap-up/c44879e4",
+      alt_name: "Maven",
+      color_code: "#FF8C00",
+    },
+    {
+      title: "Advanced AI Product Leadership",
+      subtitle: "- Maven",
+      logo_path: "maven_logo.png",
+      certificate_link:
+        "https://maven.com/wrap-up/c22e3c55",
+      alt_name: "Maven",
+      color_code: "#FF8C00",
+    },
+    {
+      title: "GenAI for Product Managers",
+      subtitle: "- LinkedIn Learning",
+      logo_path: "linkedin_logo.png",
+      certificate_link:
+        "https://www.linkedin.com/learning/certificates/c2cbf6c74053ec7f9c3914e0b232cba85f4661aa5698e15afd6daaa1d752b7fe?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BNcHmpIaRSlWTrJq2hVpRoQ%3D%3D&accountId=74653650&u=74653650&success=true&authUUID=gO%2FXL6uPSBGFsUu4i1gRzw%3D%3D",
+      alt_name: "LinkedIn Learning",
+      color_code: "#ADD8E6",
+    },
+    {
+      title: "McKinsey Forward Program",
+      subtitle: "- McKinsey / Credly",
+      logo_path: "mckinsey_logo.png",
+      certificate_link:
+        "https://www.credly.com/badges/bd3f144b-8bbc-4abd-b285-2a294e0198cd/public_url",
+      alt_name: "Credly",
+      color_code: "#B3E5FC",
+    },
+    {
+      title: "Product Management for AI and Data Science",
+      subtitle: "- Udemy",
+      logo_path: "udemy_logo.svg.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-d78a01d4-be0a-4d20-aacb-4918687360f6/",
+      alt_name: "Udemy",
+      color_code: "#D8B7FF",
+    },
+    {
       title: "Business Analytics Specialization",
       subtitle: "- Eric Bradlow",
       logo_path: "wharton_logo.png",
@@ -471,13 +534,13 @@ const certifications = {
       color_code: "#0C9D5899",
     },
     {
-      title: "Data Analytics Consulting",
-      subtitle: "- Tom Brunskill",
-      logo_path: "kpmg_logo.png",
+      title: "Microsoft Certified: Azure Fundamentals",
+      subtitle: "- DataCamp",
+      logo_path: "microsoft_logo.png",
       certificate_link:
-        "https://drive.google.com/file/d/18IOTrVUIdln8rPTqVVfLgGNHPaIm8LXs/view",
-      alt_name: "KPMG",
-      color_code: "#1F70C199",
+        "https://www.datacamp.com/completed/statement-of-accomplishment/track/7b182bc71b2a1ec873c30da85ac5ded4875e288b?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa&utm_source=copylink",
+      alt_name: "DataCamp",
+      color_code: "#0078D6",
     },
     {
       title: "Problem Solving with Excel",
@@ -505,15 +568,6 @@ const certifications = {
         "https://www.coursera.org/account/accomplishments/certificate/QLGD426E88EP",
       alt_name: "PwC",
       color_code: "#0C9D5899",
-    },
-    {
-      title: "Scrum Professional",
-      subtitle: "- CertiProf",
-      logo_path: "scrum_logo.png",
-      certificate_link:
-        "https://www.credly.com/badges/503f45bc-adc9-49f2-8551-81c15591a97e/public_url",
-      alt_name: "CertiProf",
-      color_code: "#2A73CC",
     },
     {
       title: "Power BI Essential Training",
@@ -579,7 +633,7 @@ const experience = {
           title: "AI Product Manager",
           company: "BNY",
           company_url: "https://www.bny.com/",
-          logo_path: "volvo_logo.png",
+          logo_path: "bny_logo.png",
           duration: "Sept 2024 - Present",
           location: "Massachusetts, United States",
           description: [
@@ -596,7 +650,7 @@ const experience = {
           title: "Product Manager",
           company: "Sage Softtech, India",
           company_url: "https://sagesofttech.com/",
-          logo_path: "adventus_logo.png",
+          logo_path: "sage_logo.png",
           duration: "Jan 2023 - Aug 2023",
           location: "Pune, Maharashtra",
           description: [
@@ -612,7 +666,7 @@ const experience = {
           title: "Product Manager",
           company: "Vivma Software Inc, India",
           company_url: "https://vivma.com/",
-          logo_path: "adeption_logo.png",
+          logo_path: "vivma_logo.png",
           duration: "Dec 2019 - Dec 2022",
           location: "Pune, Maharashtra",
           description: [
