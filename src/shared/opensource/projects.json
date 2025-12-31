@@ -2,60 +2,6 @@
   "data": [
     {
       "id": "R_kgDOJWL0-g",
-      "name": "AR Report Automation",
-      "createdAt": "2024-09-17T04:18:19Z",
-      "url": "https://drive.google.com/file/d/16Tv0yaIA_sg9YnnHjH896ZnwrfdVx7Cq/view?usp=sharing",
-      "description": "Conducted process optimization by automating AR reporting, reducing manual data extraction and consolidation efforts. Implemented Advanced Excel(Power Query) and Microsoft PowerAutomate to streamline data cleaning and financial estimations, cutting reporting time by 70% and enhancing data accuracy to 95%.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Microsoft PowerAutomate",
-          "iconifyClass": "simple-icons:powerautomate"
-        },
-        {
-          "name": "Advanced Excel",
-          "iconifyClass": "simple-icons:microsoftexcel"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJWL0-g",
-      "name": "Tax Report Automation",
-      "createdAt": "2024-10-27T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1W1DCybT6KsEWgiEZbECq0sUmmvXXNwN1/view?usp=sharing",
-      "description": "Performed automation of tax reporting for PARTS and JDE engines, eliminating repetitive manual processes. Integrated Power Query and Microsoft PowerAutomate for data extraction and consolidation, reducing reporting time significantly while ensuring 100% data accuracy.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Microsoft PowerAutomate",
-          "iconifyClass": "simple-icons:powerautomate"
-        },
-        {
-          "name": "Advanced Excel",
-          "iconifyClass": "simple-icons:microsoftexcel"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJWL0-g",
-      "name": "Volume Estimates Report Automation",
-      "createdAt": "2024-12-11T04:18:19Z",
-      "url": "https://drive.google.com/file/d/1HNq3_S5Xna1xxc7Rwfh55fDFrSR-YpTb/view?usp=sharing",
-      "description": "Optimized financial data consolidation and variance analysis by automating workflows. Leveraged Power BI, Advanced SQL, and Power Query for data integration from SAP, SharePoint, and Excel, reducing processing hours per month and improving variance analysis accuracy to 90%.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "PowerBI",
-          "iconifyClass": "simple-icons:powerbi"
-        },
-        {
-          "name": "Advanced SQL (M Query)",
-          "iconifyClass": "simple-icons:mysql"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOJWL0-g",
       "name": "Automated Claims Processing System",
       "createdAt": "2024-04-07T04:18:19Z",
       "url": "https://drive.google.com/file/d/1XRTmo2CnNgTJopP6CSaQE_6Q90qGR46t/view",
