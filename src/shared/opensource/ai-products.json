@@ -1,3 +1,4 @@
+
 {
   "data": [
     {
@@ -8,22 +9,10 @@
       "description": "AI-powered financial decisioning platform that evaluates transactions, classifies risk-relevant signals, and feeds structured outputs into downstream workflows. Features intelligent bookkeeping assistance and financial query resolution using advanced NLP and machine learning models. Automates risk assessment, transaction categorization, and provides real-time financial insights for informed decision-making.",
       "isFork": false,
       "languages": [
-        {
-          "name": "AI/ML",
-          "iconifyClass": "carbon:machine-learning-model"
-        },
-        {
-          "name": "NLP",
-          "iconifyClass": "carbon:text-mining"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Data Analytics",
-          "iconifyClass": "carbon:analytics"
-        }
+        { "name": "AI/ML", "iconifyClass": "carbon:machine-learning-model" },
+        { "name": "NLP", "iconifyClass": "carbon:text-mining" },
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Data Analytics", "iconifyClass": "carbon:analytics" }
       ],
       "aiFeatures": [
         "AI-powered transaction evaluation and risk classification",
@@ -48,22 +37,10 @@
       "description": "With simple prompts, PRD.ai instantly crafts detailed AI-powered Product Requirements Documents (PRD) and mocks so that your team can hit the ground running. Leverages advanced generative AI and NLP to transform high-level product vision statements into comprehensive, structured documentation including user stories, technical specifications, success metrics, mockups, and implementation roadmaps. Streamlines product planning by automating the entire PRD creation process while maintaining professional quality.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Generative AI",
-          "iconifyClass": "carbon:ai-results"
-        },
-        {
-          "name": "NLP",
-          "iconifyClass": "carbon:text-mining"
-        },
-        {
-          "name": "LLM",
-          "iconifyClass": "carbon:model"
-        },
-        {
-          "name": "Product Management",
-          "iconifyClass": "carbon:document"
-        }
+        { "name": "Generative AI", "iconifyClass": "carbon:ai-results" },
+        { "name": "NLP", "iconifyClass": "carbon:text-mining" },
+        { "name": "LLM", "iconifyClass": "carbon:model" },
+        { "name": "Product Management", "iconifyClass": "carbon:document" }
       ],
       "aiFeatures": [
         "Instant PRD generation from simple prompts and product vision",
@@ -88,22 +65,10 @@
       "description": "AI-powered decentralized journalism platform leveraging Bitcoin blockchain and Lightning Network for anonymous publishing. Implements NLP for content moderation, ML-based voting algorithms for quality assessment, and smart contract automation for dynamic prize pool distribution. Features Taproot identity management for privacy-preserving authentication and AI-driven fraud detection to ensure content integrity.",
       "isFork": false,
       "languages": [
-        {
-          "name": "Blockchain",
-          "iconifyClass": "cryptocurrency:btc"
-        },
-        {
-          "name": "NLP/AI",
-          "iconifyClass": "carbon:text-mining"
-        },
-        {
-          "name": "React.js",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "Node.js",
-          "iconifyClass": "logos-nodejs"
-        }
+        { "name": "Blockchain", "iconifyClass": "cryptocurrency:btc" },
+        { "name": "NLP/AI", "iconifyClass": "carbon:text-mining" },
+        { "name": "React.js", "iconifyClass": "logos-react" },
+        { "name": "Node.js", "iconifyClass": "logos-nodejs" }
       ],
       "aiFeatures": [
         "AI-powered content moderation and fake news detection",
@@ -120,83 +85,99 @@
       }
     },
     {
-      "id": "R_kgDOCHATBOT02",
-      "name": "AI Customer Service Chatbot",
-      "createdAt": "2025-03-15T00:00:00Z",
-      "url": "https://drive.google.com/file/d/1example-chatbot",
-      "description": "Enterprise-grade conversational AI chatbot with 80% automated query resolution. Utilizes advanced NLP for intent recognition, deep learning models for context understanding, and reinforcement learning for continuous improvement. Features seamless CRM integration, multi-language support, and intelligent escalation routing. Implements GDPR-compliant data handling with real-time sentiment analysis and predictive customer behavior modeling.",
+      "id": "R_v0PDCOP01",
+      "name": "Product Decision Copilot",
+      "createdAt": "2025-12-29T00:00:00Z",
+      "url": "https://v0-product-decision-copilot.vercel.app/",
+      "description": "Interactive copilot to guide product decisioning — converts tradeoffs, metrics, and user signals into prioritized recommendations and decision documents. Integrates generative AI for rationale and structured action items.",
       "isFork": false,
       "languages": [
-        {
-          "name": "NLP/AI",
-          "iconifyClass": "carbon:text-mining"
-        },
-        {
-          "name": "Deep Learning",
-          "iconifyClass": "carbon:neural-network"
-        },
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "TensorFlow",
-          "iconifyClass": "logos-tensorflow"
-        }
+        { "name": "Generative AI", "iconifyClass": "carbon:ai-results" },
+        { "name": "Product Analytics", "iconifyClass": "carbon:analytics" },
+        { "name": "React.js", "iconifyClass": "logos-react" }
       ],
       "aiFeatures": [
-        "Advanced NLP with transformer models for intent classification",
-        "Context-aware dialogue management using LSTM networks",
-        "Real-time sentiment analysis for customer satisfaction tracking",
-        "ML-based escalation prediction and intelligent routing",
-        "Continuous learning through reinforcement learning feedback loops",
-        "Multi-language support with neural machine translation"
+        "Context-aware recommendation generation for product tradeoffs",
+        "Automated prioritization and impact estimation",
+        "Generative rationale and decision documentation",
+        "Integration with analytics for data-driven suggestions"
       ],
       "productMetrics": {
-        "automation": "80% automated query resolution upon launch",
-        "responseTime": "Sub-second response time with 95% accuracy",
-        "integration": "Seamless CRM integration with real-time data sync",
-        "compliance": "GDPR-compliant with end-to-end encryption"
+        "decisionSpeed": "Reduces decision time by surfacing prioritized options",
+        "actionability": "Generates ready-to-execute recommendations",
+        "integration": "Connects to product metrics and analytics"
       }
     },
     {
-      "id": "R_kgDOHOMIE01",
-      "name": "Homie - AI-Powered Household Management App",
-      "createdAt": "2025-12-20T00:00:00Z",
-      "url": "#",
-      "description": "Mobile application designed to simplify and automate household management for students and roommates. Features AI-powered task automation, intelligent calendar integration, Splitwise-style expense tracking, and smart reminders. Homie ensures fair task distribution, reduces conflicts, and keeps everything organized in one centralized platform. Built with Figma for high-fidelity prototypes and UX design, focusing on seamless user experience for young professionals and students in shared living spaces.",
+      "id": "R_v0FRAUD01",
+      "name": "Fraud Shield SMB",
+      "createdAt": "2025-12-28T00:00:00Z",
+      "url": "https://v0-fraud-shield-smb.vercel.app/",
+      "description": "Lightweight AI fraud detection and risk scoring tailored for SMBs — detects anomalous transactions, flags risky patterns, and provides explainable signals for operational teams.",
       "isFork": false,
       "languages": [
-        {
-          "name": "UX Design",
-          "iconifyClass": "carbon:design"
-        },
-        {
-          "name": "Figma",
-          "iconifyClass": "logos:figma"
-        },
-        {
-          "name": "Mobile App",
-          "iconifyClass": "carbon:mobile"
-        },
-        {
-          "name": "AI/Automation",
-          "iconifyClass": "carbon:machine-learning-model"
-        }
+        { "name": "Anomaly Detection", "iconifyClass": "carbon:machine-learning-model" },
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Node.js", "iconifyClass": "logos-nodejs" }
       ],
       "aiFeatures": [
-        "AI-powered automated task assignment and rotation system",
-        "Smart calendar syncing with Google Calendar & Apple Calendar",
-        "Intelligent expense splitting and tracking (Splitwise integration)",
-        "Automated reminders and notifications for tasks and payments",
-        "ML-based conflict resolution through fair task distribution",
-        "Predictive scheduling to prevent task overlap and optimize household workflow"
+        "Real-time anomaly detection for transactions",
+        "Explainable risk signals and alerting",
+        "Model ensembles tuned for SMB data distributions",
+        "Automated triage and case prioritization"
       ],
       "productMetrics": {
-        "purpose": "Simplify shared living by automating household tasks and expense management",
-        "vision": "Stress-free, well-organized home with fair responsibility distribution",
-        "impact": "Fosters accountability, transparency, and efficiency in co-living",
-        "userExperience": "Minimalist, intuitive UI designed for students and young professionals"
+        "accuracy": "High precision for SMB transaction profiles",
+        "latency": "Low-latency scoring for near-real-time alerts",
+        "opsReduction": "Significant reduction in manual review load"
+      }
+    },
+    {
+      "id": "R_v0JMAP01",
+      "name": "AI Journey Mapper",
+      "createdAt": "2025-12-27T00:00:00Z",
+      "url": "https://v0-ai-journey-mapper-ld.vercel.app/",
+      "description": "Visualizes and auto-generates user journey maps from event streams and session data using NLP to summarize key moments and recommend optimization opportunities.",
+      "isFork": false,
+      "languages": [
+        { "name": "NLP", "iconifyClass": "carbon:text-mining" },
+        { "name": "Data Viz", "iconifyClass": "carbon:diagram" },
+        { "name": "React.js", "iconifyClass": "logos-react" }
+      ],
+      "aiFeatures": [
+        "Automatic journey extraction from event data",
+        "NLP-based summarization of critical user moments",
+        "Optimization recommendations and KPIs",
+        "Interactive visualizations with drill-down"
+      ],
+      "productMetrics": {
+        "insightsSpeed": "Minutes to actionable journey insights",
+        "clarity": "Concise summaries of user friction points",
+        "impact": "Improves conversion by surfacing high-impact changes"
+      }
+    },
+    {
+      "id": "R_v0GIGS01",
+      "name": "Gig Score AI",
+      "createdAt": "2025-12-26T00:00:00Z",
+      "url": "https://v0-gig-score-ai-app.vercel.app/",
+      "description": "Scoring engine for gig economy platforms — predicts worker reliability and job-fit using behavior signals and historical performance to improve matching and reduce churn.",
+      "isFork": false,
+      "languages": [
+        { "name": "Predictive Modeling", "iconifyClass": "carbon:machine-learning-model" },
+        { "name": "Python", "iconifyClass": "logos-python" },
+        { "name": "Data Engineering", "iconifyClass": "carbon:data-structured" }
+      ],
+      "aiFeatures": [
+        "Worker reliability and match scoring",
+        "Behavioral signal ingestion and feature engineering",
+        "Explainable score breakdowns for trust",
+        "Continuous model retraining with drift detection"
+      ],
+      "productMetrics": {
+        "matchQuality": "Improves match relevance and reduces cancellations",
+        "retention": "Increases worker retention via better job fit",
+        "explainability": "Provides transparent score components for operators"
       }
     }
   ]
