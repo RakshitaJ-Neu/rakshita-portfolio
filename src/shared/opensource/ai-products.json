@@ -58,33 +58,6 @@
       }
     },
     {
-      "id": "R_kgDOUNVEIL01",
-      "name": "UNVEIL - Anonymous Journalism Platform",
-      "createdAt": "2025-04-01T00:00:00Z",
-      "url": "https://drive.google.com/file/d/1example-unveil",
-      "description": "AI-powered decentralized journalism platform leveraging Bitcoin blockchain and Lightning Network for anonymous publishing. Implements NLP for content moderation, ML-based voting algorithms for quality assessment, and smart contract automation for dynamic prize pool distribution. Features Taproot identity management for privacy-preserving authentication and AI-driven fraud detection to ensure content integrity.",
-      "isFork": false,
-      "languages": [
-        { "name": "Blockchain", "iconifyClass": "cryptocurrency:btc" },
-        { "name": "NLP/AI", "iconifyClass": "carbon:text-mining" },
-        { "name": "React.js", "iconifyClass": "logos-react" },
-        { "name": "Node.js", "iconifyClass": "logos-nodejs" }
-      ],
-      "aiFeatures": [
-        "AI-powered content moderation and fake news detection",
-        "ML-based voting pattern analysis for quality ranking",
-        "NLP for sentiment analysis and topic categorization",
-        "Predictive analytics for prize pool optimization",
-        "Automated anomaly detection for fraudulent content"
-      ],
-      "productMetrics": {
-        "stakingModel": "Crypto staking ensures skin in the game",
-        "automation": "80% reduction in manual moderation",
-        "accuracy": "95% accuracy in content quality assessment",
-        "scalability": "Lightning Network enables micro-transactions at scale"
-      }
-    },
-    {
       "id": "R_v0PDCOP01",
       "name": "Product Decision Copilot",
       "createdAt": "2025-12-29T00:00:00Z",
