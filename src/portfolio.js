@@ -111,13 +111,6 @@ const skills = {
           },
         },
         {
-          skillName: "Advanced SQL",
-          fontAwesomeClassname: "simple-icons:mysql",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
           skillName: "Productboard",
           fontAwesomeClassname: "simple-icons:producthunt",
           style: {
@@ -209,6 +202,13 @@ const skills = {
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Advanced SQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#1488C6",
           },
         },
         {
@@ -432,7 +432,6 @@ const degrees = {
       duration: "2023 - 2025",
       descriptions: [
         "⚡ Master's specialization in AI/ML Product Management, Data Science, and Agile Software Development with focus on production ML systems",
-        "⚡ Certified in Prompt Engineering & Programming with OpenAI (Columbia+), Microsoft AI Product Manager, and Product Management for AI and Data Science",
         "⚡ Graduate Teaching Assistant mentoring students in career planning and technical product management strategies",
         "⚡ Active leader in GWISE and Women's Interdisciplinary Society of Entrepreneurship (WISE), fostering inclusive tech community",
       ],
