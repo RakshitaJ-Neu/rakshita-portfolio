@@ -796,7 +796,7 @@ const projectsHeader = {
 const aiProductsHeader = {
   title: "AI Product Portfolio",
   description:
-    "Production AI products leveraging LLMs, RAG systems, and agentic workflows. FinSense: AI-powered financial decisioning with risk classification and NLP query resolution. AIProductGPT: Instant PRD generation from simple prompts. Each product demonstrates translating advanced AI (LangChain, CrewAI, vector databases) into scalable B2B SaaS solutions with measurable enterprise impact.",
+    "AI products leveraging LLMs, RAG systems, and agentic workflows. FinSense: AI-powered financial decisioning with risk classification and NLP query resolution. PRD.ai: Instant PRD generation from simple prompts. Additional concepts demonstrating translating advanced AI (LangChain, CrewAI, vector databases) into scalable B2B SaaS solutions with measurable enterprise impact.",
   avatar_image_path: "projects_image.svg",
 };
 
