@@ -26,13 +26,13 @@ const greeting = {
   resumeLink:
     "https://drive.google.com/file/d/1yMHpx0XdQtO1knUM7bx3VMoBndTUAY5C/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
-  githubProfile: "https://github.com/RakshitaJ-Neu",
+  githubProfile: "https://github.com/rakshita-jaiswal",
 };
 
 const socialMediaLinks = [
   {
     name: "Github",
-    link: "https://github.com/RakshitaJ-Neu",
+    link: "https://github.com/rakshita-jaiswal",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -51,7 +51,7 @@ const socialMediaLinks = [
 
   {
     name: "Gmail",
-    link: "mailto:rakshita.jaiswal25@gmail.com",
+    link: "mailto:rakshita.j@mailjobtech.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },

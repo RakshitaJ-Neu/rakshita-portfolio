@@ -8,10 +8,10 @@ export const chatbotKnowledge = {
     title: "AI Product Manager | SaaS Leader | CSPO®",
     certifications: ["CSPO® (Certified Scrum Product Owner)", "Scrum Alliance"],
     email: "rakshita.j@mailjobtech.com",
-    alternateEmail: "rakshita.jaiswal25@gmail.com",
+    alternateEmail: "rakshita.j@mailjobtech.com",
     phone: "617-407-4538",
     linkedin: "https://www.linkedin.com/in/rakshita-jaiswal/",
-    github: "https://github.com/RakshitaJ-Neu",
+    github: "https://github.com/rakshita-jaiswal",
     location: "Burnett St, Jamaica Plain, MA, USA 02130",
     resumeLink: "https://drive.google.com/file/d/1yMHpx0XdQtO1knUM7bx3VMoBndTUAY5C/view?usp=sharing",
     summary: "AI Product Manager | SaaS Leader | CSPO® with 5+ years shipping production ML systems and agentic workflows. I translate advanced AI (LLMs, RAG, multi-agent orchestration) into scalable B2B SaaS solutions—delivering 2x developer adoption, $2.4M revenue impact, and 40% faster sales cycles across 5K+ enterprise users."
@@ -381,7 +381,7 @@ Savitribai Phule Pune University, India (2016-2020)
 📧 Email: rakshita.j@mailjobtech.com
 📱 Phone: 617-407-4538
 💼 LinkedIn: linkedin.com/in/rakshita-jaiswal
-🐙 GitHub: github.com/RakshitaJ-Neu
+🐙 GitHub: github.com/rakshita-jaiswal
 📍 Location: Massachusetts, United States
 
 Available for opportunities in AI Product Management, SaaS Product Development, and Production ML Systems.`;
