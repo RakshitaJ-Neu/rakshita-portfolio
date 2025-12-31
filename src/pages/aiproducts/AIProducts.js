@@ -65,7 +65,7 @@ class AIProducts extends Component {
         <Button
           text={"More AI Projects"}
           className="project-button"
-          href={greeting.githubProfile}
+          href="https://github.com/rakshita-jaiswal"
           newTab={true}
           theme={theme}
         />
