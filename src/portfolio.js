@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "Product Manager | AI/ML, B2B Focus | SaaS Leadership | CSPO®",
   description:
-    "I help teams build AI products that actually work. As an AI Product Leader with 5+ years in the trenches, I've learned that great AI isn't about algorithms—it's about solving real problems for real people. I've shipped production ML systems, multi-agent workflows, and RAG pipelines that drove 2x developer adoption, $2.4M revenue, and 40% faster sales cycles across 5K+ enterprise users. CSPO® certified. Obsessed with bridging innovation and impact.",
+    "I help teams build AI products that actually work. As an AI Product Leader with 5+ years of experience, I've learned that great AI isn't about algorithms—it's about solving real problems for real people. I've shipped production ML systems, multi-agent workflows, and RAG pipelines that deliver measurable business impact. CSPO® certified. Obsessed with bridging innovation and impact.",
   resumeLink:
     "https://drive.google.com/file/d/1yMHpx0XdQtO1knUM7bx3VMoBndTUAY5C/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
