@@ -28,6 +28,12 @@ export default function Greeting(props) {
               >
                 {greeting.subTitle}
               </p>
+              <p
+                className="greeting-text-p"
+                style={{ color: theme.secondaryText }}
+              >
+                {greeting.description}
+              </p>
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
