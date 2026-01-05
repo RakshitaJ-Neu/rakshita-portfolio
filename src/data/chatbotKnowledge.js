@@ -13,7 +13,7 @@ export const chatbotKnowledge = {
     linkedin: "https://www.linkedin.com/in/rakshita-jaiswal/",
     github: "https://github.com/rakshita-jaiswal",
     location: "Burnett St, Jamaica Plain, MA, USA 02130",
-    resumeLink: "https://drive.google.com/file/d/1yMHpx0XdQtO1knUM7bx3VMoBndTUAY5C/view?usp=sharing",
+    resumeLink: "https://drive.google.com/file/d/1_BATToBcEAT49xWSaIj5m0sVotJ_CIYi/view?usp=sharing",
     summary: "AI Product Manager | SaaS Leader | CSPO® with 5+ years shipping production ML systems and agentic workflows. I translate advanced AI (LLMs, RAG, multi-agent orchestration) into scalable B2B SaaS solutions—delivering 2x developer adoption, $2.4M revenue impact, and 40% faster sales cycles across 5K+ enterprise users."
   },
 
