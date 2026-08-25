@@ -53,7 +53,7 @@ const socialMediaLinks = [
 
   {
     name: "Gmail",
-    link: "mailto:rakshita.j@mailjobtech.com",
+    link: "mailto:rakshitajaiswal07@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -664,8 +664,8 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Finance and Business Control Analyst",
-          company: "Volvo Group",
+          title: "Finance and Business Control Co-op",
+          company: "Volvo Group North America",
           company_url: "https://www.volvogroup.com/",
           logo_path: "volvo_logo.png",
           duration: "Sep 2024 - Dec 2024",
@@ -680,7 +680,7 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Business Analyst",
+          title: "Senior Business Analyst",
           company: "Adventus Education Pvt Ltd",
           company_url: "https://adventus.com/",
           logo_path: "adventus_logo.png",
