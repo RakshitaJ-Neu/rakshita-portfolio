@@ -20,11 +20,25 @@ export const chatbotKnowledge = {
   // Professional Experience (from resume and portfolio)
   experience: [
     {
-      company: "BNY (The Bank of New York Mellon Corporation)",
+      company: "Capital One",
+      role: "Manager, Product Management",
+      duration: "March 2026 - Present",
+      location: "New York, United States",
+      description: "Owning end-to-end product lifecycle for a GenAI compliance-testing platform across the Reveal and Fuse systems",
+      achievements: [
+        "Shipped the first production version of a requirements-to-data translation layer within the first 5 months of tenure",
+        "Drove AI adoption strategy across compliance, legal, and advisory stakeholders by defining data-attribute specs and metadata standards, replacing 40+ hours/month of manual reconciliation with a single traceable schema",
+        "Led customer discovery across 3 interconnected platforms with testers, data teams, and platform owners, translating unmet workflow needs directly into PRDs and codable data attributes within the first 90 days",
+        "Prioritized a cross-platform product roadmap by mapping data synchronization gaps across 2 systems of record, sequencing fixes that eliminated redundant manual entry across the Reveal and Fuse platforms",
+        "Built leadership consensus in a cross-functional working group of testers, data teams, and platform owners, redesigning the end-to-end test planning and reporting lifecycle over a 6-month engagement"
+      ]
+    },
+    {
+      company: "BNY Mellon",
       role: "AI Product Manager",
-      duration: "September 2024 - Present",
-      location: "Massachusetts, United States",
-      description: "Leading AI/ML product development for personalized banking recommendations and fraud detection systems in a global financial-services company managing over $50 trillion in assets",
+      duration: "January 2025 - March 2026",
+      location: "Massachusetts, United States (Remote)",
+      description: "Led AI/ML product development for personalized banking recommendations and fraud detection systems in a global financial-services company managing over $50 trillion in assets",
       achievements: [
         "Led Agile cross-functional teams to define ML product vision for personalized banking recommendations on AWS SageMaker, establishing 8 KPIs through RICE framework",
         "Improved sprint velocity by 30% and decreased feature delivery time",
@@ -42,32 +56,45 @@ export const chatbotKnowledge = {
       ]
     },
     {
-      company: "Sage Softtech Private Limited",
-      role: "Product Manager",
-      duration: "January 2023 - August 2023",
-      location: "Pune, India",
-      description: "Led AI-enhanced digital wallet feature development and payment onboarding optimization for digital payment and fintech-oriented solutions",
+      company: "Volvo Group North America",
+      role: "Finance and Business Control Co-op",
+      duration: "September 2024 - December 2024",
+      location: "Chesapeake, VA, United States",
+      description: "Shipped BI and financial modeling tools giving regional finance teams real-time visibility into capital utilization",
       achievements: [
-        "Achieved 25% payment onboarding completion increase by leading AI-enhanced digital wallet feature from concept-to-production",
-        "Created user journey maps and coordinated SQL-driven cohort analysis for transaction behavior segmentation",
-        "Reduced payment integration costs by managing UX and engineering trade-offs for transaction flows",
-        "Accelerated digital wallet MVP delivery by 2+ weeks through requirements gathering and agile ceremonies",
-        "Designed customer surveys capturing 200+ insights quarterly",
-        "Improved sprint transparency and reduced feedback turnaround time by 30% via Power Automate"
+        "Shipped a Power BI product with a SQL data-flow backend giving 3 regional finance teams real-time visibility into $15M+ in capital utilization, replacing a weekly manual roll-up",
+        "Authored end-to-end data-flow requirements documents used by 25+ cross-functional stakeholders, driving system adoption from 10 to 15 of 30 target users",
+        "Built automated financial models in Power Query and VBA that eliminated 1,020 manual hours annually and closed the forecasting variance gap from 10% to 1%",
+        "Ran root-cause analysis on forecasting discrepancies and shipped Agile process changes that cut the planning cycle from 20 days to 13 days",
+        "Onboarded finance and IT stakeholders to the new dashboard across a 3-month rollout"
       ]
     },
     {
-      company: "Vivma Software Inc",
-      role: "Product Manager",
-      duration: "December 2019 - December 2022",
-      location: "Pune, India",
-      description: "Drove AI-driven portfolio optimization and operational automation initiatives for institutional investors",
+      company: "Adventus Education Pvt Ltd",
+      role: "Senior Business Analyst",
+      duration: "April 2023 - August 2023",
+      location: "Pune, Maharashtra, India",
+      description: "Built dashboards and data-governance processes to improve retention and cross-team requirement delivery",
       achievements: [
-        "Drove 15% order growth on $12M portfolio by defining product specifications for AI-driven portfolio optimization algorithms",
-        "Reduced reconciliation time from 20 to 5 hours through automation",
-        "Achieved 18% reduction in operational costs",
-        "Streamlined analyst training efficiency by 50%",
-        "Conducted 150+ customer interviews for product roadmap"
+        "Built Tableau dashboards on real-time KPI streams that cut churn-response time by 48 hours per at-risk account",
+        "Authored 20+ BRDs and FRDs specifying data-integration logic, unblocking engagement-program launches stalled for 2+ quarters",
+        "Ran JIRA-based Agile workshops with Risk and Strategy leads, expanding budget visibility to cover an additional $300K of prior-invisible spend",
+        "Stood up the analytics-to-requirements pipeline in the first 60 days of the role",
+        "Extended metadata lineage coverage to previously untracked $300K in R&D spend"
+      ]
+    },
+    {
+      company: "Adeption India LLP",
+      role: "Business Analyst",
+      duration: "December 2019 - March 2023",
+      location: "Pune, Maharashtra, India",
+      description: "Grew from intern to Business Analyst over a 3+ year tenure at an early-stage eCommerce startup, owning data-flow requirements for a $12M platform",
+      achievements: [
+        "Shipped Python-based ROI models that lifted order volume from an est. baseline ~10,000 to ~11,500 orders/month",
+        "Automated payment reconciliation reports in Excel VBA, cutting financial data processing from 20 hours to 5 hours monthly",
+        "Authored 10+ SRS/FRD documents codifying payment-processing logic and PCI compliance requirements",
+        "Built Power BI dashboards visualizing operational bottlenecks across 5 business units, cutting merchant onboarding time from ~10 days to ~6 days",
+        "Established the analytics-to-requirements pipeline that scaled the platform's reporting stack to a governed BI layer"
       ]
     }
   ],
@@ -168,9 +195,9 @@ export const chatbotKnowledge = {
     "2x developer adoption through production-grade ML pipelines",
     "40% sales cycle reduction via automated lead qualification",
     "35% faster onboarding through end-to-end ML workflows",
-    "25% payment onboarding completion increase",
+    "40+ hours/month of manual reconciliation replaced with a single traceable schema at Capital One",
     "18% improvement in recommendation acceptance rates",
-    "15% portfolio growth on $12M assets",
+    "15% order growth on $12M eCommerce platform",
     "Supported 5K+ enterprise users and $2B+ operations"
   ]
 };
@@ -184,41 +211,41 @@ export const responsePatterns = {
   ],
   
   experience: {
-    keywords: ["experience", "work", "job", "career", "role", "position", "worked", "company", "bny", "sage", "vivma"],
+    keywords: ["experience", "work", "job", "career", "role", "position", "worked", "company", "capital one", "bny", "volvo", "adventus", "adeption"],
     response: (query) => {
       const lowerQuery = query.toLowerCase();
-      
-      if (lowerQuery.includes("current") || lowerQuery.includes("now") || lowerQuery.includes("bny")) {
-        return {
-          text: `Rakshita is currently an **AI Product Manager at BNY** (Bank of New York Mellon) since September 2024.
 
-🏦 **Key Projects:**
-- Personalized Banking Recommendations Engine (AWS SageMaker)
-- Fraud Detection System (XGBoost)
+      if (lowerQuery.includes("current") || lowerQuery.includes("now") || lowerQuery.includes("capital one")) {
+        return {
+          text: `Rakshita is currently a **Manager, Product Management at Capital One** since March 2026, owning the end-to-end product lifecycle for a GenAI compliance-testing platform across the Reveal and Fuse systems.
+
+🏦 **Key Work:**
+- Requirements-to-data translation layer (shipped in first 5 months)
+- Cross-platform roadmap eliminating redundant manual entry across systems of record
 
 💰 **Impact:**
-- Generated **$2.4M incremental revenue**
-- **30% sprint velocity** improvement
-- **18% better acceptance rates**
-- **95% requirement alignment**
+- Replaced 40+ hours/month of manual reconciliation with a single traceable schema
+- Delivered PRDs and codable data attributes within the first 90 days
 
-BNY manages over **$50 trillion in assets** globally.`,
+Previously, she was an **AI Product Manager at BNY Mellon** (Jan 2025 - Mar 2026), generating $2.4M incremental revenue.`,
           navigate: {
             path: "/experience",
             label: "View Full Experience"
           }
         };
       }
-      
-      return {
-        text: `Rakshita has **5+ years** as an AI Product Manager:
 
-**Current:** AI Product Manager at **BNY** (Sept 2024 - Present)
-- $2.4M revenue, 30% sprint velocity improvement
+      return {
+        text: `Rakshita has **5+ years** of experience across product and business analysis roles:
+
+**Current:** Manager, Product Management at **Capital One** (Mar 2026 - Present)
+- GenAI compliance-testing platform, replacing 40+ hrs/month of manual reconciliation
 
 **Previous:**
-📱 **Sage Softtech** (2023) - 25% onboarding increase
-💼 **Vivma Software** (2019-2022) - 15% growth on $12M assets
+🏦 **BNY Mellon** (Jan 2025 - Mar 2026) - AI Product Manager, $2.4M revenue impact
+🚛 **Volvo Group North America** (Sep 2024 - Dec 2024) - Finance and Business Control Co-op
+📊 **Adventus Education** (Apr 2023 - Aug 2023) - Senior Business Analyst
+💼 **Adeption India LLP** (Dec 2019 - Mar 2023) - Business Analyst
 
 Would you like details about a specific role?`,
         navigate: {
@@ -509,7 +536,7 @@ Hands-on technical skills with production experience:
 
 💻 **Technical Implementation:**
 - Self-taught AI-analysis and algorithm development
-- Took complete ownership of algorithm coding at Vivma
+- Took complete ownership of algorithm coding at Adeption India LLP
 - Collaborated with data engineering teams on solution delivery
 - Facilitated Excel VBA and Python solution delivery under tight deadlines
 
@@ -762,7 +789,7 @@ export const findBestResponse = (userQuery) => {
   // Default response for unmatched queries
   return `I can help you learn about Rakshita's:
 
-📋 **Experience** - Current role at BNY, previous positions
+📋 **Experience** - Current role at Capital One, previous positions
 🛠️ **Skills** - AI/ML, Product Management, Analytics
 🚀 **Projects** - FinSense, AIProductGPT, Homie
 🎓 **Education** - Northeastern (MS), Certifications
