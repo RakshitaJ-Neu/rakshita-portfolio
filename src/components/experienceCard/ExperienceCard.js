@@ -8,13 +8,20 @@ class ExperienceCard extends Component {
     const index = this.props.index;
     const totalCards = this.props.totalCards;
     const theme = this.props.theme;
+    let imageSrc;
+    try {
+      imageSrc = require(`../../assests/images/${experience["logo_path"]}`);
+    } catch (e) {
+      imageSrc = require(`../../assests/images/github_logo.png`);
+    }
+
     return (
       <div className="experience-list-item" style={{ marginTop: (index === 0 ? 30 : 50) }}>
         <Fade left duration={2000} distance="40px">
           <div className="experience-card-logo-div">
             <img
               className="experience-card-logo"
-              src={require(`../../assests/images/${experience["logo_path"]}`)}
+              src={imageSrc}
               alt=""
             />
           </div>

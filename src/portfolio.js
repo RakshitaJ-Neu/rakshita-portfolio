@@ -26,7 +26,7 @@ const greeting = {
   description:
     "I help teams build AI products that actually work. As an AI Product Leader with 5+ years of experience, I've learned that great AI isn't about algorithms—it's about solving real problems for real people. I've shipped production ML systems, multi-agent workflows, and RAG pipelines that deliver measurable business impact. Obsessed with bridging innovation and impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1_BATToBcEAT49xWSaIj5m0sVotJ_CIYi/view?usp=sharing",
+    "https://drive.google.com/file/d/1sx02Rsx6F_jxXc6QMT94Wt68-v5z-Pxb/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/rakshita-jaiswal",
 };
@@ -652,7 +652,7 @@ const experience = {
           company_url: "https://www.bny.com/",
           logo_path: "bny_logo.png",
           duration: "Jan 2025 - Mar 2026",
-          location: "Massachusetts, United States",
+          location: "Massachusetts, United States (Remote)",
           description: [
             "Led Agile cross-functional teams to define ML product vision for personalized banking recommendations on AWS SageMaker, establishing 8 KPIs through RICE framework that improved sprint velocity by 30% and decreased feature delivery time",
             "Developed AI product roadmap and PRDs for fraud detection system using XGBoost predictive analytics, conducting stakeholder workshops that attained 95% requirement alignment and ensuring compliance with OCC model risk management frameworks",
@@ -685,7 +685,7 @@ const experience = {
           company_url: "https://adventus.com/",
           logo_path: "adventus_logo.png",
           duration: "April 2023 - Aug 2023",
-          location: "Pune, Maharashtra",
+          location: "Pune, Maharashtra, India",
           description: [
             "Built Tableau dashboards on real-time KPI streams that cut churn-response time by 48 hours per at-risk account, letting the retention team intervene on 30–40 accounts/month that would previously have lapsed",
             "Authored 20+ BRDs and FRDs specifying data-integration logic between engineering and business teams, unblocking engagement-program launches that had been stalled for 2+ quarters",
@@ -701,7 +701,7 @@ const experience = {
           company_url: "https://adeption.io/",
           logo_path: "adeption_logo.png",
           duration: "Dec 2019 - Mar 2023",
-          location: "Pune, Maharashtra",
+          location: "Pune, Maharashtra, India",
           description: [
             "Grew from intern to Business Analyst over a 3+ year tenure at an early-stage eCommerce startup (<20 employees), owning data-flow requirements for a $12M platform and shipping Python-based ROI models that lifted order volume from an est. baseline ~10,000 to ~11,500 orders/month through feature optimization",
             "Automated payment reconciliation reports in Excel VBA, cutting financial data processing from 20 hours to 5 hours monthly and freeing 180 analyst hours annually across the finance ops team by the end of 2022.",
@@ -913,14 +913,14 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Strathmore Road, Brighton, MA, USA, 02135",
-    locality: "Brighton",
+    subtitle: "880 Bergen Ave, Jersey City, NJ, USA, 07306",
+    locality: "Jersey City",
     country: "USA",
-    region: "Massachusetts",
-    postalCode: "02135",
-    streetAddress: "Strathmore Road",
+    region: "New Jersey",
+    postalCode: "07306",
+    streetAddress: "880 Bergen Ave",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/search/Strathmore+Road,+Brighton,+MA,+02135",
+    location_map_link: "https://www.google.com/maps/search/880+Bergen+Ave,+Jersey+City,+NJ,+07306",
   },
   phoneSection: {
     title: "",
