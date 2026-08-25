@@ -5,7 +5,7 @@ import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
 import { Fade } from "react-reveal";
-import { greeting, aiProductsHeader } from "../../portfolio.js";
+import { aiProductsHeader } from "../../portfolio.js";
 import AIProductsData from "../../shared/opensource/ai-products.json";
 import "./AIProducts.css";
 import AIProductsImg from "./AIProductsImg";

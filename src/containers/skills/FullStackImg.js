@@ -3,7 +3,6 @@ import FrontendDevImage from "./frontend_dev.png";
 
 export default class FullStackImg extends Component {
   render() {
-    const theme = this.props.theme;
-    return <img src={FrontendDevImage} />;
+    return <img src={FrontendDevImage} alt="Full stack development" />;
   }
 }

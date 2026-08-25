@@ -199,21 +199,21 @@ export default class ProductManagementImg extends Component {
             <circle cx="650" cy="150" r="25" fill="#3498DB" opacity="0.3">
               <animate attributeName="cy" values="150;140;150" dur="3s" repeatCount="indefinite" />
             </circle>
-            <text x="638" y="160" fontSize="20" fill="#FFF">📊</text>
+            <text x="638" y="160" fontSize="20" fill="#FFF" aria-hidden="true">📊</text>
           </g>
           
           <g className="floating-icon icon-2">
             <circle cx="150" cy="120" r="25" fill="#E74C3C" opacity="0.3">
               <animate attributeName="cy" values="120;110;120" dur="3.5s" repeatCount="indefinite" />
             </circle>
-            <text x="138" y="130" fontSize="20" fill="#FFF">💡</text>
+            <text x="138" y="130" fontSize="20" fill="#FFF" aria-hidden="true">💡</text>
           </g>
           
           <g className="floating-icon icon-3">
             <circle cx="700" cy="300" r="25" fill="#2ECC71" opacity="0.3">
               <animate attributeName="cy" values="300;290;300" dur="2.8s" repeatCount="indefinite" />
             </circle>
-            <text x="688" y="310" fontSize="20" fill="#FFF">🎯</text>
+            <text x="688" y="310" fontSize="20" fill="#FFF" aria-hidden="true">🎯</text>
           </g>
           
           {/* Notification badge */}

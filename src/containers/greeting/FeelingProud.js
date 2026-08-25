@@ -2,7 +2,6 @@ import React, { Component } from "react";
 
 class FeelingProud extends Component {
   render() {
-    const theme = this.props.theme;
     return (
       <svg
         version="1.2"

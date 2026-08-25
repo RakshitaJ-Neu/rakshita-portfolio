@@ -14,7 +14,7 @@ import RJChatbot from "../components/chatbot/RJChatbot";
 
 // Wrapper component to conditionally render chatbot
 const ChatbotWrapper = withRouter(({ location, theme }) => {
-  const isSplashPage = location.pathname === "/" && settings.isSplash || location.pathname === "/splash";
+  const isSplashPage = (location.pathname === "/" && settings.isSplash) || location.pathname === "/splash";
   return !isSplashPage ? <RJChatbot theme={theme} /> : null;
 });
 

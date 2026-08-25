@@ -135,7 +135,7 @@ class RJChatbot extends Component {
   };
 
   render() {
-    const { isOpen, messages, inputValue, isTyping, hasNavigated } = this.state;
+    const { isOpen, messages, inputValue, isTyping } = this.state;
     const { theme } = this.props;
 
     const quickQuestions = [

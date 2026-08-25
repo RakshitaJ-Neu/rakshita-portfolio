@@ -3,7 +3,6 @@ import BlogsImage from "./blogs.png";
 
 export default class BlogsImg extends Component {
   render() {
-    const theme = this.props.theme;
-    return <img src={BlogsImage} />;
+    return <img src={BlogsImage} alt="Blogs" />;
   }
 }
