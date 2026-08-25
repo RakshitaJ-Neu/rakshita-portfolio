@@ -646,10 +646,6 @@ const experience = {
           ],
           color: "#000000",
         },
-    {
-      title: "Work Experience",
-      work: true,
-      experiences: [
         {
           title: "AI Product Manager",
           company: "BNY Mellon",
