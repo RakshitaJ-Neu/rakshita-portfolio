@@ -913,14 +913,13 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "880 Bergen Ave, Jersey City, NJ, USA, 07306",
+    subtitle: "Jersey City, NJ, USA, 07306",
     locality: "Jersey City",
     country: "USA",
     region: "New Jersey",
     postalCode: "07306",
-    streetAddress: "880 Bergen Ave",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://www.google.com/maps/search/880+Bergen+Ave,+Jersey+City,+NJ,+07306",
+    location_map_link: "https://www.google.com/maps/search/Jersey+City,+NJ,+07306",
   },
   phoneSection: {
     title: "",
