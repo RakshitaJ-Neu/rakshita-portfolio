@@ -22,7 +22,7 @@ export const chatbotKnowledge = {
     {
       company: "Capital One",
       role: "Manager, Product Management",
-      duration: "March 2026 - Present",
+      duration: "March 2026 - Aug 2026",
       location: "New York, United States",
       description: "Owning end-to-end product lifecycle for a GenAI compliance-testing platform across the Reveal and Fuse systems",
       achievements: [
@@ -31,28 +31,6 @@ export const chatbotKnowledge = {
         "Led customer discovery across 3 interconnected platforms with testers, data teams, and platform owners, translating unmet workflow needs directly into PRDs and codable data attributes within the first 90 days",
         "Prioritized a cross-platform product roadmap by mapping data synchronization gaps across 2 systems of record, sequencing fixes that eliminated redundant manual entry across the Reveal and Fuse platforms",
         "Built leadership consensus in a cross-functional working group of testers, data teams, and platform owners, redesigning the end-to-end test planning and reporting lifecycle over a 6-month engagement"
-      ]
-    },
-    {
-      company: "BNY Mellon",
-      role: "AI Product Manager",
-      duration: "January 2025 - March 2026",
-      location: "Massachusetts, United States (Remote)",
-      description: "Led AI/ML product development for personalized banking recommendations and fraud detection systems in a global financial-services company managing over $50 trillion in assets",
-      achievements: [
-        "Led Agile cross-functional teams to define ML product vision for personalized banking recommendations on AWS SageMaker, establishing 8 KPIs through RICE framework",
-        "Improved sprint velocity by 30% and decreased feature delivery time",
-        "Developed AI product roadmap and PRDs for fraud detection system using XGBoost predictive analytics",
-        "Conducted stakeholder workshops achieving 95% requirement alignment",
-        "Ensured compliance with OCC model risk management frameworks",
-        "Partnered with data science teams to implement MLflow monitoring",
-        "Built 6 Tableau dashboards improving recommendation acceptance rates by 18%",
-        "Generated $2.4M incremental revenue",
-        "Supervised end-to-end product lifecycle for credit risk assessment tools on cloud infrastructure",
-        "Executed go-to-market strategy and A/B testing using Adobe Target",
-        "Optimized customer journeys via Amplitude analytics and competitive insights",
-        "Leveraged Microsoft Power Automate to streamline model update workflows",
-        "Reduced manual reporting time by 20% ensuring traceable audit readiness for OCC-regulated AI models"
       ]
     },
     {
