@@ -647,6 +647,21 @@ const experience = {
           color: "#000000",
         },
         {
+          title: "Product Management",
+          company: "S&P Global",
+          company_url: "https://www.spglobal.com/",
+          logo_path: "spglobal.jpg",
+          duration: "Aug 2025 - Mar 2026",
+          location: "New York, United States",
+          description: [
+            "Supported product initiatives focused on financial data and analytics workflows, identifying gaps in data quality, reporting, and user workflows and translating business needs into user stories, functional requirements, acceptance criteria, process flows, and technical requirements for Engineering and Data teams",
+            "Used SQL, Excel, and Power BI to analyze product usage, data quality, and recurring workflow issues, tracing operational gaps back to underlying data and process dependencies and supporting improvements that reduced manual analysis and reporting effort by approximately 20%",
+            "Worked with Product, Engineering, Data, and QA teams to break requirements into Jira epics, user stories, acceptance criteria, sprint tasks, and dependencies, tracking scope, risks, milestones, and release readiness across 8+ product enhancements and contributing to 3+ releases while reducing requirement clarification cycles by approximately 25%",
+            "Conducted user research, requirements workshops, and competitive analysis with 15+ internal users and stakeholders to understand workflow pain points, validate proposed solutions, and prioritize roadmap enhancements, converting findings into product recommendations, technical documentation, stakeholder presentations, and actionable backlog items"
+          ],
+          color: "#000000",
+        },
+        {
           title: "Finance and Business Control Co-op",
           company: "Volvo Group North America",
           company_url: "https://www.volvogroup.com/",
@@ -663,18 +678,17 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Senior Business Analyst",
-          company: "Adventus Education Pvt Ltd",
-          company_url: "https://adventus.com/",
-          logo_path: "adventus_logo.png",
+          title: "Product Manager",
+          company: "HCLTech",
+          company_url: "https://www.hcl.com/",
+          logo_path: "hcl_logo.png",
           duration: "April 2023 - Aug 2023",
           location: "Pune, Maharashtra, India",
           description: [
-            "Built Tableau dashboards on real-time KPI streams that cut churn-response time by 48 hours per at-risk account, letting the retention team intervene on 30–40 accounts/month that would previously have lapsed",
-            "Authored 20+ BRDs and FRDs specifying data-integration logic between engineering and business teams, unblocking engagement-program launches that had been stalled for 2+ quarters",
-            "Ran JIRA-based Agile workshops with Risk and Strategy leads to document data governance policies, expanding budget visibility to cover an additional $300K of prior-invisible spend by end of Q3 2023",
-            "Partnered daily with engineers and business stakeholders to translate user-behavior signals into shippable requirements, standing up the analytics-to-requirements pipeline in the first 60 days of the role",
-            "Documented data governance standards adopted by Risk and Strategy leads across the platform, extending metadata lineage coverage to previously untracked $300K in R&D spend by end of Q3 2023",
+            "Owned product discovery and solution definition for enterprise technology initiatives, working with clients to identify workflow inefficiencies and translate business problems into product requirements, user stories, acceptance criteria, and prioritized features, driving 10+ enhancements from concept through production",
+            "Partnered with Engineering and Data teams to solve system integration, data quality, and process automation challenges, defining REST API integrations, data flows, validation logic, and business rules that reduced manual operational effort by approximately 30% and improved consistency across downstream workflows",
+            "Applied SQL, Python, Excel, and Power BI to analyze product usage, operational KPIs, data quality, and workflow performance, using root cause analysis to identify product gaps and inform feature prioritization and solution improvements, reducing issue resolution time by approximately 25%",
+            "Drove technical product execution across Engineering, QA, Data, and client teams by evaluating solution feasibility, managing product dependencies and risks, coordinating UAT and release readiness, and translating technical constraints into product decisions that reduced development rework and supported on-time delivery"
           ],
           color: "#000000",
         },

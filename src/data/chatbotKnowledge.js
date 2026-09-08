@@ -216,13 +216,13 @@ Previously, she was an **AI Product Manager at BNY Mellon** (Jan 2025 - Mar 2026
       return {
         text: `Rakshita has **5+ years** of experience across product and business analysis roles:
 
-**Current:** Manager, Product Management at **Capital One** (Mar 2026 - Present)
+**Current:** Manager, Product Management at **Capital One** (Mar 2026 - Aug 2026)
 - GenAI compliance-testing platform, replacing 40+ hrs/month of manual reconciliation
 
 **Previous:**
-🏦 **BNY Mellon** (Jan 2025 - Mar 2026) - AI Product Manager, $2.4M revenue impact
+🏦 **S&P Global** (Aug 2025 - Mar 2026) - Product Manager
 🚛 **Volvo Group North America** (Sep 2024 - Dec 2024) - Finance and Business Control Co-op
-📊 **Adventus Education** (Apr 2023 - Aug 2023) - Senior Business Analyst
+📊 **HCLTech** (Apr 2023 - Aug 2023) - Product Manager
 💼 **Adeption India LLP** (Dec 2019 - Mar 2023) - Business Analyst
 
 Would you like details about a specific role?`,
