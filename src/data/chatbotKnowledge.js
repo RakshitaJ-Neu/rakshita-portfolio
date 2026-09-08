@@ -205,7 +205,7 @@ export const responsePatterns = {
 - Replaced 40+ hours/month of manual reconciliation with a single traceable schema
 - Delivered PRDs and codable data attributes within the first 90 days
 
-Previously, she was an **AI Product Manager at BNY Mellon** (Jan 2025 - Mar 2026), generating $2.4M incremental revenue.`,
+Previously, she was an **AI Product Manager at S&P Global** (Aug 2025 - Mar 2026), generating $2.4M incremental revenue.`,
           navigate: {
             path: "/experience",
             label: "View Full Experience"
