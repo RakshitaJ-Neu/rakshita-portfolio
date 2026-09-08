@@ -26,7 +26,7 @@ const greeting = {
   description:
     "I help teams build AI products that actually work. As an AI Product Leader with 5+ years of experience, I've learned that great AI isn't about algorithms—it's about solving real problems for real people. I've shipped production ML systems, multi-agent workflows, and RAG pipelines that deliver measurable business impact. Obsessed with bridging innovation and impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1sx02Rsx6F_jxXc6QMT94Wt68-v5z-Pxb/view?usp=sharing",
+    "https://drive.google.com/file/d/1BplT_vuywcRLoPl1M4jVehuBh_mY_HJ1/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/rakshita-jaiswal",
 };
