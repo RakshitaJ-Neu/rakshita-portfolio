@@ -647,7 +647,7 @@ const experience = {
           color: "#000000",
         },
         {
-          title: "Product Management",
+          title: "Product Manager",
           company: "S&P Global",
           company_url: "https://www.spglobal.com/",
           logo_path: "spglobal.jpg",
