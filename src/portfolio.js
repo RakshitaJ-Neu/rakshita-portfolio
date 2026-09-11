@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Rakshita's Portfolio",
   description:
-    "SaaS Product Leader and AI Product Manager with 5+ years driving AI-powered product strategy through data-driven insights and cross-functional leadership. Certified Scrum Product Owner (CSPO®) specializing in production-scale ML pipelines, agentic workflows, and B2B SaaS solutions. Expertise in roadmap development, stakeholder alignment, and Agile delivery that achieves revenue growth, operational efficiency, and measurable ROI through strategic AI product innovation.",
+    "AI Product Manager with 5+ years driving product strategy across healthcare and financial services through discovery, data, and cross-functional delivery. Certified Scrum Product Owner (CSPO®) with hands-on experience shipping GenAI, RAG, and agentic workflows into regulated enterprise environments. Expertise in roadmap development, stakeholder alignment, and phased rollout — translating clinical, compliance, and business requirements into products that deliver measurable adoption, revenue, and efficiency outcomes.",
   og: {
     title: "Rakshita Jaiswal Portfolio",
     type: "website",
@@ -22,11 +22,11 @@ const greeting = {
   title: "Rakshita Jaiswal",
   logo_name: "Rakshita Jaiswal",
   subTitle:
-    "Product Manager | AI/ML, B2B SaaS | CSPO®",
+    "Product Manager | AI/ML, Healthcare & Fintech | CSPO®",
   description:
-    "I help teams build AI products that actually work. As an AI Product Leader with 5+ years of experience, I've learned that great AI isn't about algorithms—it's about solving real problems for real people. I've shipped production ML systems, multi-agent workflows, and RAG pipelines that deliver measurable business impact. Obsessed with bridging innovation and impact.",
+    "I help teams build AI products that actually work. Over the past 5+ years, I've learned that great AI isn't about the algorithm — it's about solving real problems for real users, inside real regulatory and operational constraints. I've shipped GenAI compliance platforms at Capital One and EHR/RCM workflows at eClinicalWorks serving 180K+ providers, translating messy requirements into products that hold up in production. Focused on the space where AI meets regulation, clinicians, and end users who don't care what model you used.",
   resumeLink:
-    "https://drive.google.com/file/d/1BplT_vuywcRLoPl1M4jVehuBh_mY_HJ1/view?usp=sharing",
+    "https://drive.google.com/file/d/1i5c2C0EsU9nl1Z4cfRT9CABJm3GAzMFa/view?usp=sharing",
   linkedinProfile: "https://www.linkedin.com/in/rakshita-jaiswal/",
   githubProfile: "https://github.com/rakshita-jaiswal",
 };
