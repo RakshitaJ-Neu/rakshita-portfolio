@@ -232,14 +232,14 @@ Previously, she was a **Product Manager at eClinicalWorks** (May 2024 – March 
       }
 
       return {
-        text: `Rakshita has **5+ years** of experience across product and business analysis roles:
+        text: `Rakshita has **6+ years** of experience across product and business analysis roles:
 
 **Current:** Manager, Product Management at **Capital One** (Mar 2026 - Aug 2026)
 - GenAI compliance-testing platform, replacing 40+ hrs/month of manual reconciliation
 
 **Previous:**
 🏦 **eClinicalWorks** (Aug 2025 - March 2026) - Product Manager
-🚛 **eClinicalWorks** (May 2024 - March 2025) - Finance and Business Control Co-op
+🚛 **eClinicalWorks** (May 2024 - March 2025) - Product Manager Control Co-op
 📊 **Adventus.io** (Apr 2023 - Aug 2023) - Product Business Analyst
 💼 **Adeption India LLP** (Dec 2019 - Mar 2023) - Business Analyst
 
