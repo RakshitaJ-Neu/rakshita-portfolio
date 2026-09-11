@@ -5,7 +5,7 @@ export const chatbotKnowledge = {
   // Personal Information
   personal: {
     name: "Rakshita Jaiswal",
-    title: "AI Product Manager | SaaS Leader | CSPO®",
+    title: "AI Product Manager | Shipping enterprise AI in healthcare and fintech | CSPO®",
     certifications: ["CSPO® (Certified Scrum Product Owner)", "Scrum Alliance"],
     email: "rakshitajaiswal07@gmail.com",
     alternateEmail: "rakshitajaiswal07@gmail.com",
@@ -14,7 +14,7 @@ export const chatbotKnowledge = {
     github: "https://github.com/rakshita-jaiswal",
     location: "880 Bergen Ave, Jersey City, NJ, USA 073060",
     resumeLink: "https://drive.google.com/file/d/10ibw50l8s4Ll-Hw6vl6i8k7hF159Nv_M/view?usp=sharing",
-    summary: "AI Product Manager | SaaS Leader | CSPO® with 5+ years shipping production ML systems and agentic workflows. I translate advanced AI (LLMs, RAG, multi-agent orchestration) into scalable B2B SaaS solutions—delivering 2x developer adoption, $2.4M revenue impact, and 40% faster sales cycles across 5K+ enterprise users."
+    summary: "AI Product Manager | CSPO® with 5+ years shipping production AI and enterprise SaaS across healthcare and financial services. I translate GenAI, RAG, and agentic workflows into products that survive real users — scaling a GenAI compliance platform 3× in 5 months at Capital One, and lifting clean-claim rate from 82% to 94% across 180K+ providers at eClinicalWorks."
   },
 
   // Professional Experience (from resume and portfolio)
@@ -23,7 +23,7 @@ export const chatbotKnowledge = {
       company: "Capital One",
       role: "Manager, Product Management",
       duration: "March 2026 - Aug 2026",
-      location: "New York, United States",
+      location: "New York City, NY, United States",
       description: "Owning end-to-end product lifecycle for a GenAI compliance-testing platform across the Reveal and Fuse systems",
       achievements: [
         "Shipped the first production version of a requirements-to-data translation layer within the first 5 months of tenure",
@@ -34,22 +34,40 @@ export const chatbotKnowledge = {
       ]
     },
     {
-      company: "Volvo Group North America",
-      role: "Finance and Business Control Co-op",
-      duration: "September 2024 - December 2024",
-      location: "Chesapeake, VA, United States",
-      description: "Shipped BI and financial modeling tools giving regional finance teams real-time visibility into capital utilization",
-      achievements: [
-        "Shipped a Power BI product with a SQL data-flow backend giving 3 regional finance teams real-time visibility into $15M+ in capital utilization, replacing a weekly manual roll-up",
-        "Authored end-to-end data-flow requirements documents used by 25+ cross-functional stakeholders, driving system adoption from 10 to 15 of 30 target users",
-        "Built automated financial models in Power Query and VBA that eliminated 1,020 manual hours annually and closed the forecasting variance gap from 10% to 1%",
-        "Ran root-cause analysis on forecasting discrepancies and shipped Agile process changes that cut the planning cycle from 20 days to 13 days",
-        "Onboarded finance and IT stakeholders to the new dashboard across a 3-month rollout"
-      ]
-    },
+          title: "Product Manager",
+          company: "eClinicalWorks",
+          company_url: "https://www.eclinicalworks.com/",
+          logo_path: "eclinicalworks_logo.jpeg",
+          duration: "Aug 2025 - Mar 2026",
+          location: "Boston, MA, United States",
+          description: [
+            "Owned the product roadmap for scheduling and patient intake modules across the eClinicalWorks EHR, prioritizing 14 releases per year using RICE scoring against provider NPS and Zendesk ticket volume, reducing average patient check-in time by 38% across 220 ambulatory practices",
+            "Authored 25+ PRDs and led cross-functional delivery with engineering, QA, and implementation teams for claims submission and eligibility verification workflows serving 180,000 providers, lifting clean-claim rate from 82% to 94% within three quarters",
+            "Conducted discovery interviews with 30 FQHC and multi-specialty customers to define requirements for the referrals and care-plan module, translating findings into user stories and acceptance criteria in Jira, driving 71% adoption within two quarters and cutting manual fax volume by 45%",
+            "Partnered with the RCM services team to redesign denial management workflows using SQL-based root-cause analysis and Tableau dashboards, reducing average days in A/R from 42 to 29 and recovering $3.2M in previously written-off claims across the pilot cohort",
+            "Led A/B testing and phased rollout of the healow patient portal appointment self-scheduling feature across 500+ practices, increasing portal-initiated bookings by 62% and reducing inbound call volume to front-desk staff by 28%, measured via Amplitude and integrated call-center reporting"
+          ],
+          color: "#000000",
+        },
+        {
+          title: "Product Manager Co-op",
+          company: "eClinicalWorks",
+          company_url: "https://www.eclinicalworks.com/",
+          logo_path: "eclinicalworks_logo.jpeg",
+          duration: "May 2024 - March 2025",
+          location: "Boston, MA, United States",
+          description: [
+            "Supported the product manager for the eClinicalWorks patient intake module by conducting 12 user interviews with front-desk staff across 8 ambulatory practices, synthesizing findings into a prioritized backlog of 18 enhancements that shaped the Q2 release plan",
+            "Wrote 6 PRDs and user stories in Jira for scheduling and eligibility verification workflows, partnering with 2 engineering pods and QA to clarify acceptance criteria, contributing to on-time delivery of 4 features in the sprint cycle",
+            "Built Tableau dashboards tracking clean-claim rate, denial reasons, and days in A/R across a 40-practice pilot cohort, surfacing a payer-response gap that informed a downstream fix and improved clean-claim rate by 6 percentage points",
+            "Ran competitive analysis of 5 ambulatory EHR vendors (Athenahealth, NextGen, Epic, Greenway, AdvancedMD) across patient engagement and RCM feature sets, delivering a 15-page teardown that informed the healow portal roadmap discussion with the VP of Product",
+            "Assisted rollout of the healow self-scheduling feature to 30 pilot practices by drafting release notes, coordinating training webinars with customer success, and monitoring Amplitude adoption metrics, contributing to a 22% lift in portal-initiated bookings during the pilot window",
+          ],
+          color: "#000000",
+        },
     {
       company: "Adventus Education Pvt Ltd",
-      role: "Senior Business Analyst",
+      role: "Product Business Analyst",
       duration: "April 2023 - August 2023",
       location: "Pune, Maharashtra, India",
       description: "Built dashboards and data-governance processes to improve retention and cross-team requirement delivery",
@@ -168,24 +186,24 @@ export const chatbotKnowledge = {
 
   // Key Achievements
   keyAchievements: [
-    "$2.4M revenue impact through MLflow monitoring and Tableau dashboards",
-    "30% sprint velocity improvement through RICE framework",
-    "2x developer adoption through production-grade ML pipelines",
-    "40% sales cycle reduction via automated lead qualification",
-    "35% faster onboarding through end-to-end ML workflows",
-    "40+ hours/month of manual reconciliation replaced with a single traceable schema at Capital One",
-    "18% improvement in recommendation acceptance rates",
-    "15% order growth on $12M eCommerce platform",
-    "Supported 5K+ enterprise users and $2B+ operations"
-  ]
+  "Scaled a GenAI compliance platform 3× in coverage across the testing organization in 5 months at Capital One",
+  "Replaced 40+ hours/month of manual reconciliation with a single traceable schema at Capital One",
+  "Cut time-to-first-value per new line of business from 4 weeks to 9 days through embedded stakeholder engagement",
+  "Lifted clean-claim rate from 82% to 94% across 180K+ providers at eClinicalWorks",
+  "Reduced patient check-in time by 38% across 220 ambulatory practices",
+  "Drove 71% adoption of a new referrals module within two quarters, cutting manual fax volume by 45%",
+  "Recovered $3.2M in previously written-off claims through SQL-based denial management redesign",
+  "Increased healow patient portal bookings by 62% via A/B testing and phased rollout across 500+ practices",
+  "Delivered 15% order-volume growth on a $12M eCommerce platform through Python-based ROI modeling"
+]
 };
 
 // Intelligent response patterns
 export const responsePatterns = {
   greeting: [
-    "Hi! I'm RJ, Rakshita's AI assistant. I can help you learn about her experience, skills, projects, and background. What would you like to know?",
+    "Hi! I'm RJBot, Rakshita's AI assistant. I can help you learn about her experience, skills, projects, and background. What would you like to know?",
     "Hello! I'm here to answer any questions about Rakshita Jaiswal's professional experience and expertise. How can I help you today?",
-    "Welcome! I'm RJ, and I know everything about Rakshita's career in AI Product Management. What interests you?"
+    "Welcome! I'm RJBot, and I know everything about Rakshita's career in AI Product Management. What interests you?"
   ],
   
   experience: {
@@ -195,7 +213,7 @@ export const responsePatterns = {
 
       if (lowerQuery.includes("current") || lowerQuery.includes("now") || lowerQuery.includes("capital one")) {
         return {
-          text: `Rakshita is currently a **Manager, Product Management at Capital One** since March 2026, owning the end-to-end product lifecycle for a GenAI compliance-testing platform across the Reveal and Fuse systems.
+          text: `Rakshita was recently a **Manager, Product Management at Capital One**, owning the end-to-end product lifecycle for a GenAI compliance-testing platform across the enterprise testing organization.
 
 🏦 **Key Work:**
 - Requirements-to-data translation layer (shipped in first 5 months)
@@ -205,7 +223,7 @@ export const responsePatterns = {
 - Replaced 40+ hours/month of manual reconciliation with a single traceable schema
 - Delivered PRDs and codable data attributes within the first 90 days
 
-Previously, she was an **AI Product Manager at S&P Global** (Aug 2025 - Mar 2026), generating $2.4M incremental revenue.`,
+Previously, she was a **Product Manager at eClinicalWorks** (May 2024 – March 2026), owning EHR and RCM workflows for 180K+ providers — lifting clean-claim rate from 82% to 94% and cutting patient check-in time by 38% across 220 practices.`,
           navigate: {
             path: "/experience",
             label: "View Full Experience"
@@ -220,9 +238,9 @@ Previously, she was an **AI Product Manager at S&P Global** (Aug 2025 - Mar 2026
 - GenAI compliance-testing platform, replacing 40+ hrs/month of manual reconciliation
 
 **Previous:**
-🏦 **S&P Global** (Aug 2025 - Mar 2026) - Product Manager
-🚛 **Volvo Group North America** (Sep 2024 - Dec 2024) - Finance and Business Control Co-op
-📊 **HCLTech** (Apr 2023 - Aug 2023) - Product Manager
+🏦 **eClinicalWorks** (Aug 2025 - March 2026) - Product Manager
+🚛 **eClinicalWorks** (May 2024 - March 2025) - Finance and Business Control Co-op
+📊 **Adventus.io** (Apr 2023 - Aug 2023) - Product Business Analyst
 💼 **Adeption India LLP** (Dec 2019 - Mar 2023) - Business Analyst
 
 Would you like details about a specific role?`,

@@ -621,9 +621,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "AI Product Leadership & SaaS Innovation",
+  subtitle: "AI Product Manager · Enterprise AI · Healthcare · Fintech",
   description:
-    "AI Product Manager driving production ML systems and B2B SaaS innovation. Built LangChain-powered tools at BNY (2x adoption, 30% faster delivery) and AI payment systems at Sage Softtech (25% onboarding increase). Delivered $2.4M revenue through MLflow monitoring, 40% sales cycle reduction via automated qualification, and 35% faster onboarding with end-to-end ML workflows. CSPO® certified with expertise in stakeholder alignment and data-driven strategy.",
+    "AI Product Manager shipping production AI and healthcare SaaS at enterprise scale. Built a GenAI compliance platform at Capital One (scaled 4→12 lines of business in 5 months, cut time-to-first-value from 4 weeks to 9 days) and owned EHR and RCM workflows at eClinicalWorks serving 180K+ providers (clean-claim rate 82%→94%, check-in time down 38% across 220 practices). CSPO® certified, fluent in translating regulatory and clinical requirements into shipped products.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -648,47 +648,49 @@ const experience = {
         },
         {
           title: "Product Manager",
-          company: "S&P Global",
-          company_url: "https://www.spglobal.com/",
-          logo_path: "spglobal.jpg",
+          company: "eClinicalWorks",
+          company_url: "https://www.eclinicalworks.com/",
+          logo_path: "eclinicalworks_logo.jpeg",
           duration: "Aug 2025 - Mar 2026",
-          location: "New York, United States",
+          location: "Boston, MA, United States",
           description: [
-            "Supported product initiatives focused on financial data and analytics workflows, identifying gaps in data quality, reporting, and user workflows and translating business needs into user stories, functional requirements, acceptance criteria, process flows, and technical requirements for Engineering and Data teams",
-            "Used SQL, Excel, and Power BI to analyze product usage, data quality, and recurring workflow issues, tracing operational gaps back to underlying data and process dependencies and supporting improvements that reduced manual analysis and reporting effort by approximately 20%",
-            "Worked with Product, Engineering, Data, and QA teams to break requirements into Jira epics, user stories, acceptance criteria, sprint tasks, and dependencies, tracking scope, risks, milestones, and release readiness across 8+ product enhancements and contributing to 3+ releases while reducing requirement clarification cycles by approximately 25%",
-            "Conducted user research, requirements workshops, and competitive analysis with 15+ internal users and stakeholders to understand workflow pain points, validate proposed solutions, and prioritize roadmap enhancements, converting findings into product recommendations, technical documentation, stakeholder presentations, and actionable backlog items"
+            "Owned the product roadmap for scheduling and patient intake modules across the eClinicalWorks EHR, prioritizing 14 releases per year using RICE scoring against provider NPS and Zendesk ticket volume, reducing average patient check-in time by 38% across 220 ambulatory practices",
+            "Authored 25+ PRDs and led cross-functional delivery with engineering, QA, and implementation teams for claims submission and eligibility verification workflows serving 180,000 providers, lifting clean-claim rate from 82% to 94% within three quarters",
+            "Conducted discovery interviews with 30 FQHC and multi-specialty customers to define requirements for the referrals and care-plan module, translating findings into user stories and acceptance criteria in Jira, driving 71% adoption within two quarters and cutting manual fax volume by 45%",
+            "Partnered with the RCM services team to redesign denial management workflows using SQL-based root-cause analysis and Tableau dashboards, reducing average days in A/R from 42 to 29 and recovering $3.2M in previously written-off claims across the pilot cohort",
+            "Led A/B testing and phased rollout of the healow patient portal appointment self-scheduling feature across 500+ practices, increasing portal-initiated bookings by 62% and reducing inbound call volume to front-desk staff by 28%, measured via Amplitude and integrated call-center reporting"
           ],
           color: "#000000",
         },
         {
-          title: "Finance and Business Control Co-op",
-          company: "Volvo Group North America",
-          company_url: "https://www.volvogroup.com/",
-          logo_path: "volvo_logo.png",
-          duration: "Sep 2024 - Dec 2024",
-          location: "Chesapeake, VA, United States",
+          title: "Product Manager Co-op",
+          company: "eClinicalWorks",
+          company_url: "https://www.eclinicalworks.com/",
+          logo_path: "eclinicalworks_logo.jpeg",
+          duration: "May 2024 - March 2025",
+          location: "Boston, MA, United States",
           description: [
-            "Shipped a Power BI product with a SQL data-flow backend that gave 3 regional finance teams real-time visibility into $15M+ in capital utilization, replacing a weekly manual roll-up over a 4-month co-op",
-            "Authored end-to-end data-flow requirements documents that 25+ cross-functional stakeholders used to standardize capital-planning workflows, driving system adoption from 10 to 15 of 30 target users by end of Q4 2024",
-            "Built automated financial models in Power Query and VBA that eliminated 1,020 manual hours annually and closed the forecasting variance gap from 10% to 1% across the pilot planning cycle",
-            "Ran root-cause analysis on forecasting discrepancies with the finance ops team and shipped Agile process changes that cut the planning cycle from 20 days to 13 days by December 2024",
-            "Onboarded finance and IT stakeholders to the new dashboard in 1:1 sessions, negotiating scope and delivery timelines directly with regional controllers across a 3-month rollout",
+            "Supported the product manager for the eClinicalWorks patient intake module by conducting 12 user interviews with front-desk staff across 8 ambulatory practices, synthesizing findings into a prioritized backlog of 18 enhancements that shaped the Q2 release plan",
+            "Wrote 6 PRDs and user stories in Jira for scheduling and eligibility verification workflows, partnering with 2 engineering pods and QA to clarify acceptance criteria, contributing to on-time delivery of 4 features in the sprint cycle",
+            "Built Tableau dashboards tracking clean-claim rate, denial reasons, and days in A/R across a 40-practice pilot cohort, surfacing a payer-response gap that informed a downstream fix and improved clean-claim rate by 6 percentage points",
+            "Ran competitive analysis of 5 ambulatory EHR vendors (Athenahealth, NextGen, Epic, Greenway, AdvancedMD) across patient engagement and RCM feature sets, delivering a 15-page teardown that informed the healow portal roadmap discussion with the VP of Product",
+            "Assisted rollout of the healow self-scheduling feature to 30 pilot practices by drafting release notes, coordinating training webinars with customer success, and monitoring Amplitude adoption metrics, contributing to a 22% lift in portal-initiated bookings during the pilot window",
           ],
           color: "#000000",
         },
         {
-          title: "Product Manager",
-          company: "HCLTech",
-          company_url: "https://www.hcl.com/",
-          logo_path: "hcl_logo.png",
+          title: "Product Business Analyst",
+          company: "Adventus.io",
+          company_url: "https://www.adventus.io/",
+          logo_path: "adventus_logo.png",
           duration: "April 2023 - Aug 2023",
           location: "Pune, Maharashtra, India",
           description: [
-            "Owned product discovery and solution definition for enterprise technology initiatives, working with clients to identify workflow inefficiencies and translate business problems into product requirements, user stories, acceptance criteria, and prioritized features, driving 10+ enhancements from concept through production",
-            "Partnered with Engineering and Data teams to solve system integration, data quality, and process automation challenges, defining REST API integrations, data flows, validation logic, and business rules that reduced manual operational effort by approximately 30% and improved consistency across downstream workflows",
-            "Applied SQL, Python, Excel, and Power BI to analyze product usage, operational KPIs, data quality, and workflow performance, using root cause analysis to identify product gaps and inform feature prioritization and solution improvements, reducing issue resolution time by approximately 25%",
-            "Drove technical product execution across Engineering, QA, Data, and client teams by evaluating solution feasibility, managing product dependencies and risks, coordinating UAT and release readiness, and translating technical constraints into product decisions that reduced development rework and supported on-time delivery"
+            "Designed and deployed Tableau dashboards on real-time KPI streams for the customer retention team, reducing churn-response time by 48 hours per at-risk account and enabling intervention on 30-40 accounts per month that would previously have lapsed",
+            "Authored 20+ BRDs and FRDs defining data-integration logic between engineering and business teams, unblocking 3 engagement-program launches that had been stalled for two quarters",
+            "Facilitated Jira-based Agile workshops with Risk and Strategy leads to document data-governance policies, expanding R&D budget  visibility by $300K in previously untracked spend by end of Q3 2023",
+            "Partnered with engineers and business stakeholders to translate user-behavior signals into shippable requirements, standing up the analytics-to-requirements intake pipeline within the first 60 days of the role",
+            "Streamlined stakeholder intake by launching a standardized request template in Confluence, cutting requirements-clarification cycles from 5 days to under 48 hours"
           ],
           color: "#000000",
         },
